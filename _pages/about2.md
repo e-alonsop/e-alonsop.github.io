@@ -1,6 +1,5 @@
 ---
 title: "About me"
-layout: archive
 permalink: /aboutme/
 ---
 
