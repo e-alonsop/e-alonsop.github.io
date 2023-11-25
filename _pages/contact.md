@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 Enrique Alonso-Perez
+-
 Charité - Universitätsmedizin Berlin
 Charitéplatz 1
 10117 Berlin
@@ -19,5 +20,5 @@ Virchowweg 22/23
 
 ---
 
-**Email**: enrique.alonsoperez (at) charite.de
-**Phone**: +49 179 46790258
+* **Email**: enrique.alonsoperez (at) charite.de
+* **Phone**: +49 179 46790258
