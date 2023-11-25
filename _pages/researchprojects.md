@@ -17,7 +17,17 @@ Demographic changes such as growing longevity and increasing family diversity pl
 
 The ECPD firmly establishes social demography in Berlin and Germany. It promotes a broader conceptual understanding of how health research, including aging, disability, mobility, and mortality as well as biological or epigenetic perspectives can enrich social science and vice versa. By linking the two strands of research, the ECPD overcomes disciplinary fragmentation and moves toward a more comprehensive and holistic understanding of how social and health inequalities are shaped through ongoing (mega)trends and their interaction with the family sphere, thus creating a scientific basis for tackling the paramount societal challenges ahead of us.
 
-**Funding period**: [Einstein Foundation Berlin](https://www.einsteinfoundation.de/en/foundation/about-us/)
+**Funding agency**: [Einstein Foundation Berlin](https://www.einsteinfoundation.de/en/foundation/about-us/)
+
+**Cooperation partners**: 
+* Humboldt Universität zu Berlin
+* Freie Universität zu Berlin
+* Department of Psychiatry and Psychotherapy at Charité – Universitätsmedizin Berlin
+* Population Europe
+* German Socio-Economic Panel at the DIW Berlin
+* Berlin-Brandenburg Academy of Sciences (BBAW)
+* WZB Berlin Social Science Center
+* Leverhulme Centre for Demographic Science at University of Oxford
 
 **Funding period**: 2024-2029
 
