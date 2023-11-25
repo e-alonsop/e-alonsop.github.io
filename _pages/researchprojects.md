@@ -5,6 +5,11 @@ permalink: /researchprojects/
 author_profile: true
 ---
 
+I am always eager to collaborate with interesting research or new projects in the following fields:
+* Social determinants of health
+* Quantitative intersectionality
+* Social stratification of sleep health inequalities
+
 ## Einstein Center Population Diversity (ECPD)
 
 My research position is funded under the [Einstein Center Population Diversity](https://medizinsoziologie-reha-wissenschaft.charite.de/en/research/aging_research/einstein_center_population_diversity/) (ECPD). The ECPD is an interdisciplinary collaborative research center based in Berlin. The main aim is to study the consequences of increasing population diversity for social inequality and health disparities by focusing on the growing diversity of families, including changing conceptions and boundaries of the family itself. 
