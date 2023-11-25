@@ -1,9 +1,10 @@
 ---
 layout: archive
 title: "Research Projects"
-permalink: /teaching/
+permalink: /portfolio/
 author_profile: true
 ___
+
 
 ## Einstein Center Population Diversity (ECPD)
 
