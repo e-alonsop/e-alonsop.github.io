@@ -77,15 +77,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Enrique Alonso-Perez"
-  avatar           : "profile.png"
+  avatar           : "ea.png"
   bio              : "PhD candidate at Charité Universitätsmedizin – Berlin"
   location         : "Berlin, Germany"
-  employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=6BuWWjsAAAAJ&hl=en"
-  email            :
-  researchgate     :  "https://www.researchgate.net/profile/Enrique-Alonso-Perez"
+  researchgate     : "https://www.researchgate.net/profile/Enrique-Alonso-Perez"
   orcid            : "https://orcid.org/0000-0002-0228-5084"
+  googlescholar    : "https://scholar.google.com/citations?user=6BuWWjsAAAAJ&hl=en"
+  email            : "enrique.alonsoperez@charite.de"
   twitter          : "e_alonsop"
 
 # Reading Files
