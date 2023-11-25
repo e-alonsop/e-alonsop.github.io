@@ -14,4 +14,12 @@ Guarga, L., Gasol, M., Reyes, A., Roig, M., **Alonso-Perez, E.**, Clopés, A., D
 
 Reyes-Travé, A., Guarga-Solé, L., Roig-Izquierdo, M., **Alonso-Perez, E.**, Clopés-Estela, A., Delgadillo-Duarte, J. (2021). [Characterization of the Pharmaceutical Risk-Sharing Arrangement Process in Catalonia](https://link.springer.com/article/10.1007/s40273-021-01046-1). PharmacoEconomics, 39(9), pp.973-982.
 
+# Under Peer Review
+
+**Alonso-Perez, E.**, Heisig, J. P., Kreyenfeld, M., Gellert, P., O'Sullivan, J. L. (2023). [Intersectional Inequalities in the Transition to Grandparenthood and Cognitive Functioning: A Longitudinal Multilevel Analysis of Individual Heterogeneity and Discriminatory Accuracy (MAIHDA)](https://www.researchsquare.com/article/rs-3248051/v1). (Preprint)
+
+O'Sullivan, J. L., **Alonso-Perez, E.**, Färber, F., Fuellen, G., Rudolf, H., Heisig, J. P., Kreyenfeld, M., Gellert, P. (2023). [An Intersectional Perspective on Onset of Type 2 Diabetes in Adults aged 50 and older in Europe: A Multilevel Analysis of Individual Heterogeneity and Discriminatory Accuracy](https://www.researchsquare.com/article/rs-3210698/v1). (Preprint)
+
+Färber, F., **Alonso-Perez, E.**, Heidemann, C., Du, Y., Stadler, G., Gellert, P., O'Sullivan, J.L. (2023). [Intersectional analysis of social disparities in type 2 diabetes risk among adults in Germany; results from a nationwide population-based survey](https://www.researchsquare.com/article/rs-3438527/v1). (Preprint)
+
 ---
