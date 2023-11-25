@@ -1,13 +1,13 @@
 # main links links
 main:
   - title: "About"
-    url: /archive-layout-with-content/
+    url: /aboutme/
     
   - title: "Publications"
     url: /publications/ 
     
   - title: "Research Projects"
-    url: /portfolio/
+    url: /researchprojects/
     
   - title: "CV"
     url: /cv/
