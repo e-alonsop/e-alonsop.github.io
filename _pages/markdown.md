@@ -1,202 +1,23 @@
 ---
-permalink: /markdown/
-title: "Markdown"
+layout: archive
+title: "Research Projects"
+permalink: /talks/
 author_profile: true
-redirect_from: 
-  - /md/
-  - /markdown.html
----
+___
 
-## Locations of key files/directories
+## Einstein Center Population Diversity (ECPD)
 
-* Basic config options: _config.yml
-* Top navigation bar config: _data/navigation.yml
-* Single pages: _pages/
-* Collections of pages are .md or .html files in:
-  * _publications/
-  * _portfolio/
-  * _posts/
-  * _teaching/
-  * _talks/
-* Footer: _includes/footer.html
-* Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile.png
+The [Einstein Center Population Diversity](https://medizinsoziologie-reha-wissenschaft.charite.de/en/research/aging_research/einstein_center_population_diversity/) (ECPD) is an interdisciplinary collaborative research center based in Berlin. The main aim is to study the consequences of increasing population diversity for social inequality and health disparities by focusing on the growing diversity of families, including changing conceptions and boundaries of the family itself. 
 
-## Tips and hints
+Our societies are becoming more heterogeneous, with fast changes that lead to a wider diversity in population. Demographic changes such as growing longevity and increasing family diversity play key roles in shaping our current and future societies. While seen as an opportunity, diversity also entails potential risks of inequalities such as segregation, social exclusion, or disparities in health and education. To deal with its opportunities and challenges, we need in-depth knowledge of the complex mechanisms that drive population diversity and inequality along the life course. It is necessary to cooperate in a consortium of research institutions, with an intersectional and interdisciplinary approach on how demographic and family diversity can affect critical dimensions of social and health inequality. Given the societal relevance of understanding the interrelations of family and population diversity in the key outcomes of education, economic welfare and health from a life course perspective, the ECPD pursues the following three overarching research ambitions:
 
-* Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
-* Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll. 
-  * Green check: successful build
-  * Orange circle: building
-  * Red X: error
-  * No icon: not built
+1. To assess the implications of growing population and family diversity for social and health inequalities and to identify promising targets and approaches for intervention
+2. To advance our understanding of social and health inequalities through the integration of biomedical and social science
+3. To capture the social and health consequences of current and potential future global crises and changes for individuals, families and societies
 
-## Resources
- * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
+The ECPD firmly establishes social demography in Berlin and Germany. It promotes a broader conceptual understanding of how health research, including aging, disability, mobility, and mortality as well as biological or epigenetic perspectives can enrich social science and vice versa. By linking the two strands of research, the ECPD overcomes disciplinary fragmentation and moves toward a more comprehensive and holistic understanding of how social and health inequalities are shaped through ongoing (mega)trends and their interaction with the family sphere, thus creating a scientific basis for tackling the paramount societal challenges ahead of us.
 
-## Markdown guide
+**Funding period**: [Einstein Foundation Berlin](https://www.einsteinfoundation.de/en/foundation/about-us/).
 
-### Header three
+**Funding period**: 2024-2029
 
-#### Header four
-
-##### Header five
-
-###### Header six
-
-## Blockquotes
-
-Single line blockquote:
-
-> Quotes are cool.
-
-## Tables
-
-### Table 1
-
-| Entry            | Item   |                                                              |
-| --------         | ------ | ------------------------------------------------------------ |
-| [John Doe](#)    | 2016   | Description of the item in the list                          |
-| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
-| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
-
-### Table 2
-
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|-----------------------------|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=============================|
-| Foot1   | Foot2   | Foot3   |
-
-## Definition Lists
-
-Definition List Title
-:   Definition list division.
-
-Startup
-:   A startup company or startup is a company or temporary organization designed to search for a repeatable and scalable business model.
-
-#dowork
-:   Coined by Rob Dyrdek and his personal body guard Christopher "Big Black" Boykins, "Do Work" works as a self motivator, to motivating your friends.
-
-Do It Live
-:   I'll let Bill O'Reilly [explain](https://www.youtube.com/watch?v=O_HyZ5aW76c "We'll Do It Live") this one.
-
-## Unordered Lists (Nested)
-
-  * List item one 
-      * List item one 
-          * List item one
-          * List item two
-          * List item three
-          * List item four
-      * List item two
-      * List item three
-      * List item four
-  * List item two
-  * List item three
-  * List item four
-
-## Ordered List (Nested)
-
-  1. List item one 
-      1. List item one 
-          1. List item one
-          2. List item two
-          3. List item three
-          4. List item four
-      2. List item two
-      3. List item three
-      4. List item four
-  2. List item two
-  3. List item three
-  4. List item four
-
-## Buttons
-
-Make any link standout more when applying the `.btn` class.
-
-## Notices
-
-**Watch out!** You can also add notices by appending `{: .notice}` to a paragraph.
-{: .notice}
-
-## HTML Tags
-
-### Address Tag
-
-<address>
-  1 Infinite Loop<br /> Cupertino, CA 95014<br /> United States
-</address>
-
-### Anchor Tag (aka. Link)
-
-This is an example of a [link](http://github.com "Github").
-
-### Abbreviation Tag
-
-The abbreviation CSS stands for "Cascading Style Sheets".
-
-*[CSS]: Cascading Style Sheets
-
-### Cite Tag
-
-"Code is poetry." ---<cite>Automattic</cite>
-
-### Code Tag
-
-You will learn later on in these tests that `word-wrap: break-word;` will be your best friend.
-
-### Strike Tag
-
-This tag will let you <strike>strikeout text</strike>.
-
-### Emphasize Tag
-
-The emphasize tag should _italicize_ text.
-
-### Insert Tag
-
-This tag should denote <ins>inserted</ins> text.
-
-### Keyboard Tag
-
-This scarcely known tag emulates <kbd>keyboard text</kbd>, which is usually styled like the `<code>` tag.
-
-### Preformatted Tag
-
-This tag styles large blocks of code.
-
-<pre>
-.post-title {
-  margin: 0 0 5px;
-  font-weight: bold;
-  font-size: 38px;
-  line-height: 1.2;
-  and here's a line of some really, really, really, really long text, just to see how the PRE tag handles it and to find out how it overflows;
-}
-</pre>
-
-### Quote Tag
-
-<q>Developers, developers, developers&#8230;</q> &#8211;Steve Ballmer
-
-### Strong Tag
-
-This tag shows **bold text**.
-
-### Subscript Tag
-
-Getting our science styling on with H<sub>2</sub>O, which should push the "2" down.
-
-### Superscript Tag
-
-Still sticking with science and Isaac Newton's E = MC<sup>2</sup>, which should lift the 2 up.
-
-### Variable Tag
-
-This allows you to denote <var>variables</var>.
