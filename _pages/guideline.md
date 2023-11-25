@@ -1,7 +1,7 @@
 ---
 title: "About me"
 layout: archive
-permalink: /archive-layout-with-content/
+permalink: /aboutme/
 ---
 
 I am a PhD candidate at the [Institute of Medical Sociology](https://medizinsoziologie-reha-wissenschaft.charite.de/en/) in Charité – Universitätsmedizin Berlin. I am researching social determinants of health from an intersectional perspective. With that, I aim to understand how population heterogeneities affect health inequalities, especially new forms of family diversity.
