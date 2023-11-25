@@ -21,6 +21,14 @@ Reyes-Travé, A., Guarga-Solé, L., Roig-Izquierdo, M., **Alonso-Perez, E.**, Cl
 
 O'Sullivan, J. L., **Alonso-Perez, E.**, Färber, F., Fuellen, G., Rudolf, H., Heisig, J. P., Kreyenfeld, M., Gellert, P. (2023). [An Intersectional Perspective on Onset of Type 2 Diabetes in Adults aged 50 and older in Europe: A Multilevel Analysis of Individual Heterogeneity and Discriminatory Accuracy](https://www.researchsquare.com/article/rs-3210698/v1). (Preprint)
 
-Färber, F., **Alonso-Perez, E.**, Heidemann, C., Du, Y., Stadler, G., Gellert, P., O'Sullivan, J.L. (2023). [Intersectional analysis of social disparities in type 2 diabetes risk among adults in Germany; results from a nationwide population-based survey](https://www.researchsquare.com/article/rs-3438527/v1). (Preprint)
+Färber, F., **Alonso-Perez, E.**, Heidemann, C., Du, Y., Stadler, G., Gellert, P., O'Sullivan, J.L. (2023). [Intersectional Analysis of Social Disparities in type 2 Diabetes Risk among Adults in Germany: Results from a Nationwide Population-Based Survey](https://www.researchsquare.com/article/rs-3438527/v1). (Preprint)
+
+## Non-Peer Reviewed Publications
+
+**Alonso-Perez, E.**, Gellert, P., O'Sullivan, J., Liebig, S., Kreyenfeld, M., McEvoy, O., Ramos, V. et al. (2021). [Cognitive Pretest of a Factorial Survey Experiment on Future Narratives and Family Care](https://opus4.kobv.de/opus4-hsog/frontdoor/index/index/docId/4174). Hertie School Repository.
+
+Guarga, L., **Alonso-Perez, E.**, Roig-Izquierdo, M., Reyes, A., León, L., Pastor, M. (2021). [Implementation of access initiatives for pharmaceutical innovations in CatSalut: Towards an integrated concept of health and care Services Model - Value Driven Transformations](https://scientiasalut.gencat.cat/handle/11351/6728). Catalan Health Department Repository.
+
+**Alonso-Perez, E.**, Pastor, M, Gasol, M, Roig, M., Guarga, L., Delgadillo, J.  (2018). [Economic Evaluations and Budget Impact Analyses of Innovative Medicines According to the Catalan Health Service Standards: A Qualitative Assessment](https://doi.org/10.1016/j.jval.2018.09.1037). Value in Health, Volume 21, Supplement 3, S174.
 
 ---
