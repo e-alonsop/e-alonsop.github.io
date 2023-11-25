@@ -20,3 +20,11 @@ The ECPD firmly establishes social demography in Berlin and Germany. It promotes
 **Funding period**: [Einstein Foundation Berlin](https://www.einsteinfoundation.de/en/foundation/about-us/)
 
 **Funding period**: 2024-2029
+
+## An Intersectional Perspective on Physiological Risk Biomarkers of Age-related Non-Communicable Diseases
+
+The use of biomarkers allows the assessment of biological risk, which is of interest to investigate physiological pathways through which sociodemographic variables can affect healthy ageing. However, most quantitative studies have not taken an intersectional perspective on social determinants of healthy ageing and related non-communicable diseases (NCDs). Instead, they rather focused on the sole impact and interactions of certain demographic or socioeconomic characteristics. Within the present study, we aim to bridge social and biomedical research by applying quantitative intersectionality. This innovative technique will enable us to explore intersectional disparities in risk biomarkers for CVD, T2DM and CKD in German older adults.
+
+We exploit secondary data from the NAKO National Cohort in Germany, with rich biomarker and sociodemographic data of more than 200,000 randomly selected citizens aged 20-69 across all Germany. 
+
+**Cooperation partner**: Universitätsmedizin Rostock
