@@ -1,10 +1,9 @@
 ---
 layout: archive
-title: "CV"
+title: "Research Projects"
 permalink: /portfolio/
 author_profile: true
 ---
-
 
 ## Einstein Center Population Diversity (ECPD)
 
