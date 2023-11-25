@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Research Projects"
-permalink: /portfolio/
+permalink: /teaching/
 author_profile: true
 ___
 
