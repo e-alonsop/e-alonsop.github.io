@@ -69,7 +69,7 @@ analytics:
 
 # Site Author
 author:
-  avatar           : "/ea.png"
+  avatar           : /ea.png/
   bio              : "PhD candidate at Charité Universitätsmedizin – Berlin"
   researchgate     : "https://www.researchgate.net/profile/Enrique-Alonso-Perez"
   orcid            : "https://orcid.org/0000-0002-0228-5084"
