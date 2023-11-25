@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Enrique Alonso-Perez and I am based in Berlin, Germany.
-
-I am a PhD candidate at the Institute of Medical Sociology in Charité – Universitätsmedizin Berlin. I am studying how population heterogeneities affect health inequalities, especially new forms of family diversity.
+I am a PhD candidate at the [Institute of Medical Sociology](https://medizinsoziologie-reha-wissenschaft.charite.de/en/) in Charité – Universitätsmedizin Berlin. I am studying how population heterogeneities affect health inequalities, especially new forms of family diversity.
 
 My background is Health Economics and quantitative methods. My research interests are biosocial determinants of health, quantitative intersectionality and the social epidemiology of sleep.
 
