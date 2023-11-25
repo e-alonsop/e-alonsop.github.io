@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 
 ---
-# Peer Reviewed publications
+## Peer Reviewed publications
 
 **Alonso-Perez, E.**, Gellert, P., Kreyenfeld, M., O’Sullivan, J. L. (2022). [Family Structure and Family Climate in Relation to Health and Socioeconomic Status for Older Adults: A Longitudinal Moderated Mediation Analysis](https://www.mdpi.com/1660-4601/19/18/11840). International Journal of Environmental Research and Public Health, 19(18), 11840.
 
@@ -15,7 +15,7 @@ Guarga, L., Gasol, M., Reyes, A., Roig, M., **Alonso-Perez, E.**, Clopés, A., D
 
 Reyes-Travé, A., Guarga-Solé, L., Roig-Izquierdo, M., **Alonso-Perez, E.**, Clopés-Estela, A., Delgadillo-Duarte, J. (2021). [Characterization of the Pharmaceutical Risk-Sharing Arrangement Process in Catalonia](https://link.springer.com/article/10.1007/s40273-021-01046-1). PharmacoEconomics, 39(9), pp.973-982.
 
-# Under Peer Review
+## Under Peer Review
 
 **Alonso-Perez, E.**, Heisig, J. P., Kreyenfeld, M., Gellert, P., O'Sullivan, J. L. (2023). [Intersectional Inequalities in the Transition to Grandparenthood and Cognitive Functioning: A Longitudinal Multilevel Analysis of Individual Heterogeneity and Discriminatory Accuracy (MAIHDA)](https://www.researchsquare.com/article/rs-3248051/v1). (Preprint)
 
