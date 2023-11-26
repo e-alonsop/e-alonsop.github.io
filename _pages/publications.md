@@ -10,7 +10,6 @@ author_profile: true
 <li><a href="https://www.mdpi.com/1660-4601/19/18/11840/}}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].website_label | default: "Access here" }}</a></li>
 
 Guarga, L., Gasol, M., Reyes, A., Roig, M., **Alonso-Perez, E.**, Clopés, A., Delgadillo, J.. (2022). Implementing Risk-Sharing Arrangements for Innovative Medicines: The Experience in Catalonia (Spain)]. _Value in Health_, Volume 25, no. 5: 803-809.
-<li><a href="https://doi.org/10.1016/j.jval.2021.10.010/{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true">
 
 **Alonso-Perez, E.**, Forné, C., Soro, M., Valls, M., Manganelli, A., Valdivielso, J. (2021). [Health Care Costs in Patients with and without Secondary Hyperparathyroidism in Spain](https://link.springer.com/article/10.1007/s12325-021-01895-4). _Advances in Therapy_, 38(10), 5333-5344.
 
