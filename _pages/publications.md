@@ -9,7 +9,7 @@ author_profile: true
 ## Peer Reviewed publications
 
 **Alonso-Perez, E.**, Gellert, P., Kreyenfeld, M., O’Sullivan, J. L. (2022). Family Structure and Family Climate in Relation to Health and Socioeconomic Status for Older Adults: A Longitudinal Moderated Mediation Analysis. _International Journal of Environmental Research and Public Health_, 19(18), 11840.\
-<a href="https://www.mdpi.com/1660-4601/19/18/11840/"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/AlonsoPerez2023_FamClimate.pdf"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
+<a href="https://www.mdpi.com/1660-4601/19/18/11840/"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/AlonsoPerez2022_FamClimate.pdf"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
 
 Guarga, L., Gasol, M., Reyes, A., Roig, M., **Alonso-Perez, E.**, Clopés, A., Delgadillo, J.. (2022). Implementing Risk-Sharing Arrangements for Innovative Medicines: The Experience in Catalonia (Spain). _Value in Health_, Volume 25, no. 5: 803-809.\
 <a href="https://www.sciencedirect.com/science/article/pii/S1098301521031727"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/Guarga2022.pdf"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
