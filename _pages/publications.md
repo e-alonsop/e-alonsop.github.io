@@ -22,11 +22,14 @@ Reyes-Travé, A., Guarga-Solé, L., Roig-Izquierdo, M., **Alonso-Perez, E.**, Cl
 
 ## Under Peer Review
 
-**Alonso-Perez, E.**, Heisig, J. P., Kreyenfeld, M., Gellert, P., O'Sullivan, J. L. (2023). [Intersectional Inequalities in the Transition to Grandparenthood and Cognitive Functioning: A Longitudinal Multilevel Analysis of Individual Heterogeneity and Discriminatory Accuracy (MAIHDA)](https://www.researchsquare.com/article/rs-3248051/v1). (Preprint).
+**Alonso-Perez, E.**, Heisig, J. P., Kreyenfeld, M., Gellert, P., O'Sullivan, J. L. (2023). Intersectional Inequalities in the Transition to Grandparenthood and Cognitive Functioning: A Longitudinal Multilevel Analysis of Individual Heterogeneity and Discriminatory Accuracy (MAIHDA). _(Preprint)_.\
+<a href="https://www.researchsquare.com/article/rs-3248051/v1"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Acess here</a>
 
-O'Sullivan, J. L., **Alonso-Perez, E.**, Färber, F., Fuellen, G., Rudolf, H., Heisig, J. P., Kreyenfeld, M., Gellert, P. (2023). [An Intersectional Perspective on Onset of Type 2 Diabetes in Adults aged 50 and older in Europe: A Multilevel Analysis of Individual Heterogeneity and Discriminatory Accuracy](https://www.researchsquare.com/article/rs-3210698/v1). (Preprint).
+O'Sullivan, J. L., **Alonso-Perez, E.**, Färber, F., Fuellen, G., Rudolf, H., Heisig, J. P., Kreyenfeld, M., Gellert, P. (2023). An Intersectional Perspective on Onset of Type 2 Diabetes in Adults aged 50 and older in Europe: A Multilevel Analysis of Individual Heterogeneity and Discriminatory Accuracy. _(Preprint)_.\
+<a href="https://www.researchsquare.com/article/rs-3210698/v1"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Acess here</a>
 
-Färber, F., **Alonso-Perez, E.**, Heidemann, C., Du, Y., Stadler, G., Gellert, P., O'Sullivan, J.L. (2023). [Intersectional Analysis of Social Disparities in type 2 Diabetes Risk among Adults in Germany: Results from a Nationwide Population-Based Survey](https://www.researchsquare.com/article/rs-3438527/v1). (Preprint).
+Färber, F., **Alonso-Perez, E.**, Heidemann, C., Du, Y., Stadler, G., Gellert, P., O'Sullivan, J.L. (2023). Intersectional Analysis of Social Disparities in type 2 Diabetes Risk among Adults in Germany: Results from a Nationwide Population-Based Survey. _(Preprint)_.\
+<a href="https://www.researchsquare.com/article/rs-3438527/v1"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Acess here</a>
 
 ## Non-Peer Reviewed Publications
 
