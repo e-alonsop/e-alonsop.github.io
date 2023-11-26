@@ -7,7 +7,6 @@ author_profile: true
 ## Peer Reviewed publications
 
 **Alonso-Perez, E.**, Gellert, P., Kreyenfeld, M., O’Sullivan, J. L. (2022). Family Structure and Family Climate in Relation to Health and Socioeconomic Status for Older Adults: A Longitudinal Moderated Mediation Analysis. _International Journal of Environmental Research and Public Health_, 19(18), 11840.\
-<li><a href="{{https://www.mdpi.com/1660-4601/19/18/11840/}}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].website_label | default: "Access here" }}</a></li>
 
 <li><a href="{{ https://www.mdpi.com/1660-4601/19/18/11840/ }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Acess here</a></li>
 
