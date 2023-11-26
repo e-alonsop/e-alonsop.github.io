@@ -41,5 +41,3 @@ Guarga, L., **Alonso-Perez, E.**, Roig-Izquierdo, M., Reyes, A., León, L., Past
 
 **Alonso-Perez, E.**, Pastor, M, Gasol, M, Roig, M., Guarga, L., Delgadillo, J.  (2018). Economic Evaluations and Budget Impact Analyses of Innovative Medicines According to the Catalan Health Service Standards: A Qualitative Assessment. _Value in Health_, Volume 21, Supplement 3, S174.\
 <a href="https://doi.org/10.1016/j.jval.2018.09.1037"><i class="fas fa-fw fa-link" aria-hidden="true"></i>Acess here</a>
-
----
