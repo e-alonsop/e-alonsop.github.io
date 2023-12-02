@@ -11,6 +11,8 @@ I am always eager to collaborate with interesting research or new projects in th
 * Social stratification of sleep health inequalities
 
 ## Einstein Center Population Diversity (ECPD)
+<details>
+<summary>Read more</summary>
 
 My research position is funded under the [Einstein Center Population Diversity](https://medizinsoziologie-reha-wissenschaft.charite.de/en/research/aging_research/einstein_center_population_diversity/) (ECPD). The ECPD is an interdisciplinary collaborative research center based in Berlin. Its main aim is to study the consequences of increasing population diversity for social inequality and health disparities by focusing on the growing diversity of families, including changing conceptions and boundaries of the family itself. 
 
@@ -35,6 +37,9 @@ The ECPD firmly establishes social demography in Berlin and Germany. It promotes
 * Berlin-Brandenburg Academy of Sciences (BBAW)
 * WZB Berlin Social Science Center
 * Leverhulme Centre for Demographic Science at University of Oxford
+
+</details>
+<br>
 
 ## An Intersectional Perspective on Physiological Risk Biomarkers of Age-related Non-Communicable Diseases
 
