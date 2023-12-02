@@ -10,7 +10,7 @@ I am always eager to collaborate with interesting research or new projects in th
 * Quantitative intersectionality
 * Social stratification of sleep health inequalities
 
-## Einstein Center Population Diversity (ECPD)
+## 1. Einstein Center Population Diversity (ECPD)
 
 My research position is funded under the [Einstein Center Population Diversity](https://medizinsoziologie-reha-wissenschaft.charite.de/en/research/aging_research/einstein_center_population_diversity/) (ECPD). The ECPD is an interdisciplinary collaborative research center based in Berlin. Its main aim is to study the consequences of increasing population diversity for social inequality and health disparities by focusing on the growing diversity of families, including changing conceptions and boundaries of the family itself. 
 
@@ -36,7 +36,7 @@ The ECPD firmly establishes social demography in Berlin and Germany. It promotes
 * WZB Berlin Social Science Center
 * Leverhulme Centre for Demographic Science at University of Oxford
 
-## An Intersectional Perspective on Physiological Risk Biomarkers of Age-related Non-Communicable Diseases
+## 2. An Intersectional Perspective on Physiological Risk Biomarkers of Age-related Non-Communicable Diseases
 
 The use of biomarkers allows the assessment of biological risk, which is of interest to investigate physiological pathways through which sociodemographic variables can affect healthy ageing. However, most quantitative studies have not taken an intersectional perspective on social determinants of healthy ageing and related non-communicable diseases (NCDs). Instead, they rather focused on the sole impact and interactions of certain demographic or socioeconomic characteristics. Within the present study, we aim to bridge social and biomedical research by applying quantitative intersectionality. This innovative technique will enable us to explore intersectional disparities in risk biomarkers for CVD, T2DM and CKD in German older adults.
 
