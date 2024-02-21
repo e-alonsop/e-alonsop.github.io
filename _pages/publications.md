@@ -8,7 +8,7 @@ author_profile: true
 
 ## Peer Reviewed publications
 
-Färber, F., **Alonso-Perez, E.**, Heidemann, C., Du, Y., Stadler, G., Gellert, P., O'Sullivan, J.L. (2023). Intersectional Analysis of Social Disparities in type 2 Diabetes Risk among Adults in Germany: Results from a Nationwide Population-Based Survey. _BMC Public Health_, 24(1), 1-12.\
+Färber, F., **Alonso-Perez, E.**, Heidemann, C., Du, Y., Stadler, G., Gellert, P., O'Sullivan, J.L. (2024). Intersectional Analysis of Social Disparities in type 2 Diabetes Risk among Adults in Germany: Results from a Nationwide Population-Based Survey. _BMC Public Health_, 24(1), 1-12.\
 <a href="https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-024-17903-5"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/Faerber2024_MAIHDA_diabetes.pdf"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
 
 **Alonso-Perez, E.**, Gellert, P., Kreyenfeld, M., O’Sullivan, J. L. (2022). Family Structure and Family Climate in Relation to Health and Socioeconomic Status for Older Adults: A Longitudinal Moderated Mediation Analysis. _International Journal of Environmental Research and Public Health_, 19(18), 11840.\
