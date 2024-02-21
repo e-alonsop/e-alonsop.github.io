@@ -31,15 +31,15 @@ Reyes-Travé, A., Guarga-Solé, L., Roig-Izquierdo, M., **Alonso-Perez, E.**, Cl
 O'Sullivan, J. L., **Alonso-Perez, E.**, Färber, F., Fuellen, G., Rudolf, H., Heisig, J. P., Kreyenfeld, M., Gellert, P. (2023). An Intersectional Perspective on Onset of Type 2 Diabetes in Adults aged 50 and older in Europe: A Multilevel Analysis of Individual Heterogeneity and Discriminatory Accuracy. _(Preprint)_.\
 <a href="https://www.researchsquare.com/article/rs-3210698/v1"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/OSullivan2023_MAIHDA_preprint.pdf"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
 
-Ramos, V. J., Kreyenfeld, M., **Alonso-Perez, E.**, Gellert, P., Heisig, J. P., O'Sullivan, J. L. Fertility Intentions Under Future Caregiving and Employment Uncertainties: Experimental Evidence from Germany. _(R&R)_.\
+Ramos, V. J., Kreyenfeld, M., **Alonso-Perez, E.**, Gellert, P., Heisig, J. P., O'Sullivan, J. L. Fertility Intentions Under Future Caregiving and Employment Uncertainties: Experimental Evidence from Germany. _(R&R)_.
 
-Molina, S., **Alonso-Perez, E.**, Kreyenfeld, M. Divorce and Mental Health: Analysis at the Intersection of Age, Gender, and Income.\
+Molina, S., **Alonso-Perez, E.**, Kreyenfeld, M. Divorce and Mental Health: Analysis at the Intersection of Age, Gender, and Income.
 
 ## Working Papers
 
-**Alonso-Perez, E.**, Schnitzer, S., O'Sullivan, J. L., Gellert, P. Intersectional effects in the onset of caregiving: An intra- and intergenerational Multilevel Analysis of Individual Heterogeneity and Discriminatory Accuracy (MAIHDA) using European longitudinal data.\
+**Alonso-Perez, E.**, Schnitzer, S., O'Sullivan, J. L., Gellert, P. Intersectional effects in the onset of caregiving: An intra- and intergenerational Multilevel Analysis of Individual Heterogeneity and Discriminatory Accuracy (MAIHDA) using European longitudinal data.
 
-**Alonso-Perez, E.**, Gellert, P., O'Sullivan, J. L. The Privilege of Good Sleep? How critical intersections of Social Inequalities and Neighborhood Context impact Sleep Health Disparities.\
+**Alonso-Perez, E.**, Gellert, P., O'Sullivan, J. L. The Privilege of Good Sleep? How critical intersections of Social Inequalities and Neighborhood Context impact Sleep Health Disparities.
 
 ## Non-Peer Reviewed Publications
 
