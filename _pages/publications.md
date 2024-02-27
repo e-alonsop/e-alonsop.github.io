@@ -49,7 +49,7 @@ This paper examines how divorce relates to mental health, and how this associati
 
 </details>
 
-Mümken, S., **Alonso-Perez, E.**, Haeger, C., O'Sullivan, J. L., Xue, Q. L., Herrmann, W., Lech, S., Gellert, P.. Prevention of frailty in relation with social out-of-home activities in older adults: Results from the Survey of Health, Ageing and Retirement in Europe.
+Mümken, S., **Alonso-Perez, E.**, Haeger, C., O'Sullivan, J. L., Xue, Q. L., Herrmann, W., Lech, S., Gellert, P. Prevention of frailty in relation with social out-of-home activities in older adults: Results from the Survey of Health, Ageing and Retirement in Europe.
 
 <details>
   <summary>Abstract</summary>
