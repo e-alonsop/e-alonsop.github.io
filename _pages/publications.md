@@ -33,6 +33,13 @@ O'Sullivan, J. L., **Alonso-Perez, E.**, Färber, F., Fuellen, G., Rudolf, H., H
 
 Ramos, V. J., Kreyenfeld, M., **Alonso-Perez, E.**, Gellert, P., Heisig, J. P., O'Sullivan, J. L. Fertility Intentions Under Future Caregiving and Employment Uncertainties: Experimental Evidence from Germany. _(R&R)_.
 
+<details>
+  <summary>Abstract</summary>
+  
+**Objective:** This paper analyzes the effects of future-oriented caregiving and employment uncertainties on fertility intentions in Germany. **Background:** The impact of uncertainty on fertility intentions has been widely explored in the literature, with a strong focus on past and current experiences of adverse economic conditions. There is limited research on the effects of uncertainty in other domains (e.g. caregiving responsibilities) and possible interactive effects of multiple types of future-oriented uncertainty. **Method:** Using a vignette experiment from the nationally representative German Socio- Economic Panel Innovation Sample (SOEP-IS) (n=1,750), respondents were randomly exposed to a hypothetical couple’s future caregiving and employment uncertainties, each with four possible levels, and subsequently evaluated their fertility intentions in the short-run. **Results:** Having no female caregiving responsibilities and no employment uncertainty for both partners in the foreseeable future increases fertility intentions by 2.8 and 1.9 units, respectively, on a 0-10 scale, relative to when future uncertainties are high. While there are gendered differences in the effect of caregiving uncertainty, the effect of employment uncertainty is not moderated by any of the respondents’ own employment characteristics. **Conclusion:** Respondent-assessed fertility intentions are highest when there are no future caregiving responsibilities and both partners are in secure employment. **Implications:** This paper highlights individual perceptions of the enabling conditions for initiating parenthood and how caregiving responsibilities and employment instability translate to concerns about family formation in aging societies.
+
+</details>
+
 Molina, S., **Alonso-Perez, E.**, Kreyenfeld, M. Divorce and Mental Health: Analysis at the Intersection of Age, Gender, and Income.
 
 ## Working Papers
