@@ -49,6 +49,15 @@ This paper examines how divorce relates to mental health, and how this associati
 
 </details>
 
+Mümken, S., **Alonso-Perez, E.**, Haeger, C., O'Sullivan, J. L., Xue, Q. L., Herrmann, W., Lech, S., Gellert, P.. Prevention of frailty in relation with social out-of-home activities in older adults: Results from the Survey of Health, Ageing and Retirement in Europe.
+
+<details>
+  <summary>Abstract</summary>
+  
+Out-of-home mobility and social participation have been identified as resources to postpone frailty. We aim to examine the specific contribution of social out-of-home activities for preventing and reducing frailty. Data from the Survey of Health, Ageing and Retirement in Europe (SHARE) waves six (w6), seven (w7), and eight (w8) were used. Frailty was measured with the SHARE version of the Edmonton Frail-Scale (EFS) with frailty states robust, pre-fail and frail. First, a mediation model with 13,456 robust participants aged ≥ 50 years in w6 was specified with social network size, loneliness (3-Item UCLA loneliness scale), and lack of motivation (EURO-D) as predictors and number of performed social out-of-home activities in w7 as mediator variable on EFS-scores in w8. Age, education, gender, and cohabitation served as covariates. Second, we investigated the association of increasing social out-of-home activities from w6 to w7 with change in EFS-score in w8 using a linear mixed model with 17,439 participants in all frailty states. Direct effects of loneliness (w6) and lack of motivation (w6) on EFS-scores (w8) were partially mediated by social out-of-home activities (loneliness ß=.01; CI 95%=.01 to .02) and (lack of motivation ß=.02; CI 95%=.02 to .03). The linear mixed model revealed a significant effect of increasing social out-of-home activities (w6 to w7) on reduction of EFS-scores (w8) (ß=-.21; CI 95%= -.29 to .14; p<.001). Social out-of-home activities appear to play a crucial role in frailty prevention, which could be used for future interventions.
+
+</details>
+
 ## Working Papers
 
 **Alonso-Perez, E.**, Schnitzer, S., O'Sullivan, J. L., Gellert, P. Intersectional effects in the onset of caregiving: An intra- and intergenerational Multilevel Analysis of Individual Heterogeneity and Discriminatory Accuracy (MAIHDA) using European longitudinal data.
