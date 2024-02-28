@@ -58,6 +58,15 @@ Out-of-home mobility and social participation have been identified as resources 
 
 </details>
 
+Lech, S., Köppe, M., Berger, M., **Alonso-Perez, E.**, Gellert, P., Buspavanich, P., Herrmann, W. Depressive symptoms among individuals identifying as asexual during the COVID-19 pandemic – a cross-sectional study.
+
+<details>
+  <summary>Abstract</summary>
+  
+Although asexuality became a growing research subject over the last decade, data on the mental health of individuals identifying as asexual is still rare. The key objective of the present study was to examine depressive symptoms among individuals identifying as asexual during the COVID-19 pandemic. Data of LGBTQIA+ (Lesbian, Gay, Bi-sexual, Trans*, Queer, Inter*, Asexual and/or + indicating others within the community) and cis-heterosexual individuals was collected through an online survey during the first (March/April 2020) and the second (January/February 2021) COVID-19 lockdowns in Germany. The survey included questions about sexual and gender identity, depressive symptoms, and asexual identity. Descriptive and regression analysis of N = 6601 participants was conducted. A total of n = 445 individuals identified as asexual. Comparison of means showed that individuals identifying as asexual reported significantly higher depressive symptoms (M = 4.15;47 SD = 1.18) than allosexual individuals (M = 3.53; SD = 1.25) (T (5925) = 9.85, p < .001, 48 95% CI [0.50; 0.74]). Further, regression results indicate identifying as asexual to be significantly associated with higher depressive symptoms compared to identifying as allosexual. The results of this study suggest that individuals identifying as asexual represent a vulnerable group within the group of sexual minorities, one that fundamentally requires special psychosocial support, especially in times of pandemics. A greater attention to the spectrum of asexuality in research and in healthcare provision is of great importance, especially in times of crisis.
+
+</details>
+
 ## Working Papers
 
 **Alonso-Perez, E.**, Schnitzer, S., O'Sullivan, J. L., Gellert, P. Intersectional effects in the onset of caregiving: An intra- and intergenerational Multilevel Analysis of Individual Heterogeneity and Discriminatory Accuracy (MAIHDA) using European longitudinal data.
