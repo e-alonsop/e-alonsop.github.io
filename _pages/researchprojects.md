@@ -12,7 +12,7 @@ I am always eager to collaborate with interesting research or new projects in th
 
 ## 1. Einstein Center Population Diversity (ECPD)
 
-![](https://e-alonsop.github.io/imges/ecpd_horizontal.png)
+![](https://e-alonsop.github.io/images/ecpd_horizontal.jpg)
 
 My research position is funded under the [Einstein Center Population Diversity](https://medizinsoziologie-reha-wissenschaft.charite.de/en/research/aging_research/einstein_center_population_diversity/) (ECPD). The ECPD is an interdisciplinary collaborative research center based in Berlin. Its main aim is to study the consequences of increasing population diversity for social inequality and health disparities by focusing on the growing diversity of families, including changing conceptions and boundaries of the family itself. 
 
