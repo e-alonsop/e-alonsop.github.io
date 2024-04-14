@@ -8,7 +8,7 @@ author_profile: true
 I am always eager to collaborate with interesting research or new projects in the following fields:
 * Social determinants of health
 * Quantitative intersectionality
-* Social stratification of sleep health inequalitiesy
+* Social stratification of sleep health inequalities
 
 ## 1. Einstein Center Population Diversity (ECPD)
 
