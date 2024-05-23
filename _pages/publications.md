@@ -8,7 +8,7 @@ author_profile: true
 
 ## Peer Reviewed publications
 
-(7) Gellert, P., **Alonso-Perez, E.** (2024). Psychological and Biological Pathways to Aging: The Role(s) of the Behavioral and Social Sciences in Geroscience. _Zeitschrift für Gerontologie und Geriatrie_.\
+(7) Gellert, P., **Alonso-Perez, E.** (2024). Psychological and Biological Pathways to Aging: The Role(s) of the Behavioral and Social Sciences in Geroscience. _Zeitschrift für Gerontologie und Geriatrie_.
 
 (6) **Alonso-Perez, E.**, Heisig, J. P., Kreyenfeld, M., Gellert, P., O'Sullivan, J. L. (2024). Intersectional Inequalities in the Transition to Grandparenthood and Cognitive Functioning: A Longitudinal Multilevel Analysis of Individual Heterogeneity and Discriminatory Accuracy (MAIHDA). _Journals of Gerontology, Series B: Psychological Sciences and Social Sciences_.\
 <a href="https://doi.org/10.1093/geronb/gbae088"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/AlonsoPerez_2024_MAIHDA_grandparenthood.pdf"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
