@@ -104,4 +104,4 @@ Sleep health is unevenly distributed across population subgroups. Previous resea
 
 (19) **Alonso-Perez, E.**, Fuellen, G., Gellert, P.,, O’Sullivan, J.L, Rudolf, H. Intersectional inequalities in biological age clocks: a MAIHDA analysis using biomarkers of ageing from the NAKO study in Germany _(Preliminary analyses)_
 
-(20) **Alonso-Perez, E.**, Gellert, P. Diverse family types and biomarkers of cardiovascular aging _(Preliminary analyses and first draft)_
+(20) **Alonso-Perez, E.**, Gellert, P. Diverse family types and biomarkers of cardiovascular aging _(Preliminary analyses)_
