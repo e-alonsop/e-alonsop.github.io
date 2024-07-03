@@ -69,9 +69,7 @@ Although asexuality became a growing research subject over the last decade, data
 
 </details>
 
-## Working Papers
-
-**Alonso-Perez, E.**, Schnitzer, S., O'Sullivan, J. L., Gellert, P. Intersectional effects in the onset of caregiving: An intra- and intergenerational Multilevel Analysis of Individual Heterogeneity and Discriminatory Accuracy (MAIHDA) using European longitudinal data.
+**Alonso-Perez, E.**, O’Sullivan, J. L., Schnitzer, S., Schmitz, A., Brandt, M., Gellert, P. Who cares first? A MAIHDA analysis of intersectional inequalities in the age of caregiving onset using European longitudinal data
 
 <details>
   <summary>Abstract</summary>
@@ -80,7 +78,15 @@ Family old age care is a central part of many people's lives in aging societies.
 
 </details>
 
-**Alonso-Perez, E.**, Gellert, P., O'Sullivan, J. L. The Privilege of Good Sleep? How critical intersections of Social Inequalities and Neighborhood Context impact Sleep Health Disparities.
+## Working in progress
+
+Gellert, P., **Alonso-Perez, E.**, Heisig, J.P., Correll, C, Steinhagen-Thiessen, E., Fuellen, G., Rudolf, H., O‘Sullivan, J.L. Is there a compression of morbidity and does it vary across social strata? A comparison of two waves 15 years apart across older European adults (In preparation for submission)
+
+**Alonso-Perez, E.**, Fuellen, G., Gellert, P.,, O’Sullivan, J.L, Rudolf, H. Intersectional inequalities in biological age clocks: a MAIHDA analysis using biomarkers of ageing from the NAKO study in Germany
+
+**Alonso-Perez, E.**, Gellert, P. Diverse family types and biomarkers of cardiovascular aging (Preliminary analyses and first draft)
+
+**Alonso-Perez, E.**, Gellert, P., O'Sullivan, J. L. Sleeping at crossroads: Intersectional effects of individual and social contexts on sleep health disparities.
 
 <details>
   <summary>Abstract</summary>
