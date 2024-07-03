@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my full CV [here](https://e-alonsop.github.io/CV_EA_April2024.pdf)
+You can find my full CV [here](https://e-alonsop.github.io/CV_EA_July2024.pdf)
 
