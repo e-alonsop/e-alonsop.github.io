@@ -38,7 +38,7 @@ The ECPD firmly establishes social demography in Berlin and Germany. It promotes
 * WZB Berlin Social Science Center
 * Leverhulme Centre for Demographic Science at University of Oxford
 
-## 2. An Intersectional Perspective on Physiological Risk Biomarkers of Age-related Non-Communicable Diseases
+## 2. Unravelling the biosocial hallmarks of ageing: Bridging social and biomedical research by examining ageing-related biomarkers through an intersectional lens
 
 The use of biomarkers allows the assessment of biological risk, which is of interest to investigate physiological pathways through which sociodemographic variables can affect healthy ageing. However, most quantitative studies have not taken an intersectional perspective on social determinants of healthy ageing and related non-communicable diseases (NCDs). Instead, they rather focused on the sole impact and interactions of certain demographic or socioeconomic characteristics. Within the present study, we aim to bridge social and biomedical research by applying quantitative intersectionality. This innovative technique will enable us to explore intersectional disparities in risk biomarkers for CVD, T2DM and CKD in German older adults.
 
