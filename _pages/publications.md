@@ -13,7 +13,7 @@ author_profile: true
 
 
 (2) **Alonso-Perez, E.**, Heisig, J. P., Kreyenfeld, M., Gellert, P., O'Sullivan, J. L. (2024). Intersectional Inequalities in the Transition to Grandparenthood and Cognitive Functioning: A Longitudinal Multilevel Analysis of Individual Heterogeneity and Discriminatory Accuracy (MAIHDA). _Journals of Gerontology, Series B: Psychological Sciences and Social Sciences_.\
-<a href="https://doi.org/10.1093/geronb/gbae088"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/AlonsoPerez_2024_MAIHDA_grandparenthood.pdf"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
+<a href="https://doi.org/10.1093/geronb/gbae088"><i class="fas fa-fw fa-link" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/AlonsoPerez_2024_MAIHDA_grandparenthood.pdf"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
 
 (3) Färber, F., **Alonso-Perez, E.**, Heidemann, C., Du, Y., Stadler, G., Gellert, P., O'Sullivan, J.L. (2024). Intersectional Analysis of Social Disparities in type 2 Diabetes Risk among Adults in Germany: Results from a Nationwide Population-Based Survey. _BMC Public Health_, 24(1), 1-12.\
 <a href="https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-024-17903-5"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/Faerber2024_MAIHDA_diabetes.pdf"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
