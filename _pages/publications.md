@@ -85,7 +85,7 @@ Family old age care is a central part of many people's lives in aging societies.
 (16) **Alonso-Perez, E.**, Pastor, M, Gasol, M, Roig, M., Guarga, L., Delgadillo, J.  (2018). Economic Evaluations and Budget Impact Analyses of Innovative Medicines According to the Catalan Health Service Standards: A Qualitative Assessment. _Value in Health_, Volume 21, Supplement 3, S174.\
 <a href="https://doi.org/10.1016/j.jval.2018.09.1037"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/AlonsoPerez2018_EE_CatSalut.pdf"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
 
-## Working in progress
+## Work in progress
 (17) Pilz González, L., **Alonso-Perez, E.**, Lehnchen, J., Deptolla, Z., Heumann, E., Tezcan-Güntekin, H., Heinrichs, K., Stock, C. Multiple discrimination and intersecting social inequalities associated with the mental health among university students in Germany - A Multilevel Analysis of Individual Heterogeneity and Discriminatory Accuracy _(In preparation for submission)_
 
 (18) Gellert, P., **Alonso-Perez, E.**, Heisig, J.P., Correll, C, Steinhagen-Thiessen, E., Fuellen, G., Rudolf, H., O‘Sullivan, J.L. Is there a compression of morbidity and does it vary across social strata? A comparison of two waves 15 years apart across older European adults _(In preparation for submission)_
