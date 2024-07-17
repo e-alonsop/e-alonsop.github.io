@@ -8,7 +8,7 @@ author_profile: true
 
 ## Peer Reviewed publications
 
-(1) Lech, S., Köppe, M., Berger, M., **Alonso-Perez, E.**, Gellert, P., Buspavanich, P., Herrmann, W. (2024). Depressive symptoms among individuals identifying as asexual during the COVID-19 pandemic – a cross-sectional study. _Scientific Reports_, 14(1), 16120.\
+(1) Lech, S., Köppe, M., Berger, M., **Alonso-Perez, E.**, Gellert, P., Buspavanich, P., Herrmann, W. (2024). Depressive symptoms among individuals identifying as asexual: a cross-sectional study. _Scientific Reports_, 14(1), 16120.\
 <a href="http://dx.doi.org/10.1038/s41598-024-66900-6"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/s41598-024-66900-6 (1).pdf"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
 
 (2) Gellert, P., **Alonso-Perez, E.** (2024). Psychological and Biological Pathways to Aging: The Role(s) of the Behavioral and Social Sciences in Geroscience. _Zeitschrift für Gerontologie und Geriatrie_.\
