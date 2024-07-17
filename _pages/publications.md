@@ -8,34 +8,37 @@ author_profile: true
 
 ## Peer Reviewed publications
 
-(1) Gellert, P., **Alonso-Perez, E.** (2024). Psychological and Biological Pathways to Aging: The Role(s) of the Behavioral and Social Sciences in Geroscience. _Zeitschrift für Gerontologie und Geriatrie_.\
+(1) Lech, S., Köppe, M., Berger, M., **Alonso-Perez, E.**, Gellert, P., Buspavanich, P., Herrmann, W. (2024). Depressive symptoms among individuals identifying as asexual during the COVID-19 pandemic – a cross-sectional study. _Scientific Reports_, 14(1), 16120.\
+<a href="http://dx.doi.org/10.1038/s41598-024-66900-6"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/ReyesTrave2021.pdf"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
+
+(2) Gellert, P., **Alonso-Perez, E.** (2024). Psychological and Biological Pathways to Aging: The Role(s) of the Behavioral and Social Sciences in Geroscience. _Zeitschrift für Gerontologie und Geriatrie_.\
 <a href="https://doi.org/10.1007/s00391-024-02324-1"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/GellertAlonsoPerez_Biosocial_2024.pdf"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
 
 
-(2) **Alonso-Perez, E.**, Heisig, J. P., Kreyenfeld, M., Gellert, P., O'Sullivan, J. L. (2024). Intersectional Inequalities in the Transition to Grandparenthood and Cognitive Functioning: A Longitudinal Multilevel Analysis of Individual Heterogeneity and Discriminatory Accuracy (MAIHDA). _Journals of Gerontology, Series B: Psychological Sciences and Social Sciences_.\
+(3) **Alonso-Perez, E.**, Heisig, J. P., Kreyenfeld, M., Gellert, P., O'Sullivan, J. L. (2024). Intersectional Inequalities in the Transition to Grandparenthood and Cognitive Functioning: A Longitudinal Multilevel Analysis of Individual Heterogeneity and Discriminatory Accuracy (MAIHDA). _Journals of Gerontology, Series B: Psychological Sciences and Social Sciences_.\
 <a href="https://doi.org/10.1093/geronb/gbae088"><i class="fas fa-fw fa-link" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/AlonsoPerez_2024_MAIHDA_grandparenthood.pdf"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
 
-(3) Färber, F., **Alonso-Perez, E.**, Heidemann, C., Du, Y., Stadler, G., Gellert, P., O'Sullivan, J.L. (2024). Intersectional Analysis of Social Disparities in type 2 Diabetes Risk among Adults in Germany: Results from a Nationwide Population-Based Survey. _BMC Public Health_, 24(1), 1-12.\
+(4) Färber, F., **Alonso-Perez, E.**, Heidemann, C., Du, Y., Stadler, G., Gellert, P., O'Sullivan, J.L. (2024). Intersectional Analysis of Social Disparities in type 2 Diabetes Risk among Adults in Germany: Results from a Nationwide Population-Based Survey. _BMC Public Health_, 24(1), 1-12.\
 <a href="https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-024-17903-5"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/Faerber2024_MAIHDA_diabetes.pdf"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
 
-(4) **Alonso-Perez, E.**, Gellert, P., Kreyenfeld, M., O’Sullivan, J. L. (2022). Family Structure and Family Climate in Relation to Health and Socioeconomic Status for Older Adults: A Longitudinal Moderated Mediation Analysis. _International Journal of Environmental Research and Public Health_, 19(18), 11840.\
+(5) **Alonso-Perez, E.**, Gellert, P., Kreyenfeld, M., O’Sullivan, J. L. (2022). Family Structure and Family Climate in Relation to Health and Socioeconomic Status for Older Adults: A Longitudinal Moderated Mediation Analysis. _International Journal of Environmental Research and Public Health_, 19(18), 11840.\
 <a href="https://www.mdpi.com/1660-4601/19/18/11840/"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/AlonsoPerez2022_FamClimate.pdf"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
 
-(5) Guarga, L., Gasol, M., Reyes, A., Roig, M., **Alonso-Perez, E.**, Clopés, A., Delgadillo, J.. (2022). Implementing Risk-Sharing Arrangements for Innovative Medicines: The Experience in Catalonia (Spain). _Value in Health_, Volume 25, no. 5: 803-809.\
+(6) Guarga, L., Gasol, M., Reyes, A., Roig, M., **Alonso-Perez, E.**, Clopés, A., Delgadillo, J.. (2022). Implementing Risk-Sharing Arrangements for Innovative Medicines: The Experience in Catalonia (Spain). _Value in Health_, Volume 25, no. 5: 803-809.\
 <a href="https://www.sciencedirect.com/science/article/pii/S1098301521031727"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/Guarga2022.pdf"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
 
-(6) **Alonso-Perez, E.**, Forné, C., Soro, M., Valls, M., Manganelli, A., Valdivielso, J. (2021). Health Care Costs in Patients with and without Secondary Hyperparathyroidism in Spain. _Advances in Therapy_, 38(10), 5333-5344.\
+(7) **Alonso-Perez, E.**, Forné, C., Soro, M., Valls, M., Manganelli, A., Valdivielso, J. (2021). Health Care Costs in Patients with and without Secondary Hyperparathyroidism in Spain. _Advances in Therapy_, 38(10), 5333-5344.\
 <a href="https://link.springer.com/article/10.1007/s12325-021-01895-4"><i class="fas fa-fw fa-link" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/AlonsoPerez2021_sHPT.pdf"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
 
-(7) Reyes-Travé, A., Guarga-Solé, L., Roig-Izquierdo, M., **Alonso-Perez, E.**, Clopés-Estela, A., Delgadillo-Duarte, J. (2021). Characterization of the Pharmaceutical Risk-Sharing Arrangement Process in Catalonia. _PharmacoEconomics_, 39(9), pp.973-982.\
+(8) Reyes-Travé, A., Guarga-Solé, L., Roig-Izquierdo, M., **Alonso-Perez, E.**, Clopés-Estela, A., Delgadillo-Duarte, J. (2021). Characterization of the Pharmaceutical Risk-Sharing Arrangement Process in Catalonia. _PharmacoEconomics_, 39(9), pp.973-982.\
 <a href="https://link.springer.com/article/10.1007/s40273-021-01046-1"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/ReyesTrave2021.pdf"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
 
 ## Under Review
 
-(8) O'Sullivan, J. L., **Alonso-Perez, E.**, Färber, F., Fuellen, G., Rudolf, H., Heisig, J. P., Kreyenfeld, M., Gellert, P. (2023). An Intersectional Perspective on Onset of Type 2 Diabetes in Adults aged 50 and older in Europe: A Multilevel Analysis of Individual Heterogeneity and Discriminatory Accuracy. _(Preprint)_.\
+(9) O'Sullivan, J. L., **Alonso-Perez, E.**, Färber, F., Fuellen, G., Rudolf, H., Heisig, J. P., Kreyenfeld, M., Gellert, P. (2023). An Intersectional Perspective on Onset of Type 2 Diabetes in Adults aged 50 and older in Europe: A Multilevel Analysis of Individual Heterogeneity and Discriminatory Accuracy. _(Preprint)_.\
 <a href="https://www.researchsquare.com/article/rs-3210698/v1"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/OSullivan2023_MAIHDA_preprint.pdf"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
 
-(9) Ramos, V. J., Kreyenfeld, M., **Alonso-Perez, E.**, Gellert, P., Heisig, J. P., O'Sullivan, J. L. Fertility Intentions Under Future Caregiving and Employment Uncertainties: Experimental Evidence from Germany. _(R&R)_.
+(10) Ramos, V. J., Kreyenfeld, M., **Alonso-Perez, E.**, Gellert, P., Heisig, J. P., O'Sullivan, J. L. Fertility Intentions Under Future Caregiving and Employment Uncertainties: Experimental Evidence from Germany. _(R&R)_.
 
 <details>
   <summary>Abstract</summary>
@@ -44,7 +47,7 @@ This paper analyzes the effects of future-oriented caregiving and employment unc
 
 </details>
 
-(10) Molina, S., **Alonso-Perez, E.**, Kreyenfeld, M. Divorce and Mental Health: Analysis at the Intersection of Age, Gender, and Income.
+(11) Molina, S., **Alonso-Perez, E.**, Kreyenfeld, M. Divorce and Mental Health: Analysis at the Intersection of Age, Gender, and Income.
 
 <details>
   <summary>Abstract</summary>
@@ -53,21 +56,12 @@ This paper examines how divorce relates to mental health, and how this associati
 
 </details>
 
-(11) Mümken, S., **Alonso-Perez, E.**, Haeger, C., O'Sullivan, J. L., Xue, Q. L., Herrmann, W., Lech, S., Gellert, P. Prevention of frailty in relation with social out-of-home activities in older adults: Results from the Survey of Health, Ageing and Retirement in Europe.
+(12) Mümken, S., **Alonso-Perez, E.**, Haeger, C., O'Sullivan, J. L., Xue, Q. L., Herrmann, W., Lech, S., Gellert, P. Prevention of frailty in relation with social out-of-home activities in older adults: Results from the Survey of Health, Ageing and Retirement in Europe.
 
 <details>
   <summary>Abstract</summary>
   
 Out-of-home mobility and social participation have been identified as resources to postpone frailty. We aim to examine the specific contribution of social out-of-home activities for preventing and reducing frailty. Data from the Survey of Health, Ageing and Retirement in Europe (SHARE) waves six (w6), seven (w7), and eight (w8) were used. Frailty was measured with the SHARE version of the Edmonton Frail-Scale (EFS) with frailty states robust, pre-fail and frail. First, a mediation model with 13,456 robust participants aged ≥ 50 years in w6 was specified with social network size, loneliness (3-Item UCLA loneliness scale), and lack of motivation (EURO-D) as predictors and number of performed social out-of-home activities in w7 as mediator variable on EFS-scores in w8. Age, education, gender, and cohabitation served as covariates. Second, we investigated the association of increasing social out-of-home activities from w6 to w7 with change in EFS-score in w8 using a linear mixed model with 17,439 participants in all frailty states. Direct effects of loneliness (w6) and lack of motivation (w6) on EFS-scores (w8) were partially mediated by social out-of-home activities (loneliness ß=.01; CI 95%=.01 to .02) and (lack of motivation ß=.02; CI 95%=.02 to .03). The linear mixed model revealed a significant effect of increasing social out-of-home activities (w6 to w7) on reduction of EFS-scores (w8) (ß=-.21; CI 95%= -.29 to .14; p<.001). Social out-of-home activities appear to play a crucial role in frailty prevention, which could be used for future interventions.
-
-</details>
-
-(12) Lech, S., Köppe, M., Berger, M., **Alonso-Perez, E.**, Gellert, P., Buspavanich, P., Herrmann, W. Depressive symptoms among individuals identifying as asexual during the COVID-19 pandemic – a cross-sectional study. _(R&R)_
-
-<details>
-  <summary>Abstract</summary>
-  
-Although asexuality became a growing research subject over the last decade, data on the mental health of individuals identifying as asexual is still rare. The key objective of the present study was to examine depressive symptoms among individuals identifying as asexual during the COVID-19 pandemic. Data of LGBTQIA+ (Lesbian, Gay, Bi-sexual, Trans*, Queer, Inter*, Asexual and/or + indicating others within the community) and cis-heterosexual individuals was collected through an online survey during the first (March/April 2020) and the second (January/February 2021) COVID-19 lockdowns in Germany. The survey included questions about sexual and gender identity, depressive symptoms, and asexual identity. Descriptive and regression analysis of N = 6601 participants was conducted. A total of n = 445 individuals identified as asexual. Comparison of means showed that individuals identifying as asexual reported significantly higher depressive symptoms (M = 4.15;47 SD = 1.18) than allosexual individuals (M = 3.53; SD = 1.25) (T (5925) = 9.85, p < .001, 48 95% CI [0.50; 0.74]). Further, regression results indicate identifying as asexual to be significantly associated with higher depressive symptoms compared to identifying as allosexual. The results of this study suggest that individuals identifying as asexual represent a vulnerable group within the group of sexual minorities, one that fundamentally requires special psychosocial support, especially in times of pandemics. A greater attention to the spectrum of asexuality in research and in healthcare provision is of great importance, especially in times of crisis.
 
 </details>
 
