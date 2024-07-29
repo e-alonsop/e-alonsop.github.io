@@ -74,19 +74,30 @@ Caregiving for older relatives is central for many people's lives in aging socie
 
 </details>
 
+(14) Pilz González, L., **Alonso-Perez, E.**, Lehnchen, J., Deptolla, Z., Heumann, E., Tezcan-Güntekin, H., Heinrichs, K., Stock, C. Mental health and the intersection of perceived discrimination and social inequalities among students in Germany – A quantitative intersectional study
+
+<details>
+  <summary>Abstract</summary>
+
+Objectives: Discrimination poses a threat to the mental health of university students, especially those affected by social inequality, yet understanding its intersectional impact remains limited. This study examines the intersection of social inequalities with perceived discrimination to explore differences in mental health among students in Germany. Intersectionality and Student Mental Health
+Methods: Data from the cross-sectional project "Study Conditions and Mental Health of University Students" (n = 14,592) were analysed using Multilevel Analysis of Individual Heterogeneity and Discriminatory Accuracy (MAIHDA). Depressive symptoms, cognitive stress symptoms, and exhaustion were examined across 48 intersectional strata based on gender, first academic generation, family care tasks, and perceived discrimination.
+Results: The MAIHDA analysis revealed substantial between strata variance, with most of it explained by additive rather than intersectional interaction effects. Perceived discrimination, diverse or female gender, first academic generation, and family care tasks (for exhaustion only) were negatively associated with mental health outcomes. 
+Conclusions: The profound associations between perceived discrimination and the mental health among university students call for urgent attention and intervention within university settings. Adopting an intersectional lens is key to identifying and addressing inequalities.
+
+</details>
+
 ## Non-Peer Reviewed Publications
 
-(14) **Alonso-Perez, E.**, Gellert, P., O'Sullivan, J., Liebig, S., Kreyenfeld, M., McEvoy, O., Ramos, V. et al. (2021). Cognitive Pretest of a Factorial Survey Experiment on Future Narratives and Family Care. _Hertie School Repository_.\
+(15) **Alonso-Perez, E.**, Gellert, P., O'Sullivan, J., Liebig, S., Kreyenfeld, M., McEvoy, O., Ramos, V. et al. (2021). Cognitive Pretest of a Factorial Survey Experiment on Future Narratives and Family Care. _Hertie School Repository_.\
 <a href="https://opus4.kobv.de/opus4-hsog/frontdoor/index/index/docId/4174"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/AlonsoPerez2023_Pretest.pdf"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
 
-(15) Guarga, L., **Alonso-Perez, E.**, Roig-Izquierdo, M., Reyes, A., León, L., Pastor, M. (2021). Implementation of access initiatives for pharmaceutical innovations in CatSalut: Towards an integrated concept of health and care Services Model - Value Driven Transformations. _Catalan Health Department Repository_.\
+(16) Guarga, L., **Alonso-Perez, E.**, Roig-Izquierdo, M., Reyes, A., León, L., Pastor, M. (2021). Implementation of access initiatives for pharmaceutical innovations in CatSalut: Towards an integrated concept of health and care Services Model - Value Driven Transformations. _Catalan Health Department Repository_.\
 <a href="https://scientiasalut.gencat.cat/handle/11351/6728"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/Guarga2021_CatSalut.pdf"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
 
-(16) **Alonso-Perez, E.**, Pastor, M, Gasol, M, Roig, M., Guarga, L., Delgadillo, J.  (2018). Economic Evaluations and Budget Impact Analyses of Innovative Medicines According to the Catalan Health Service Standards: A Qualitative Assessment. _Value in Health_, Volume 21, Supplement 3, S174.\
+(17) **Alonso-Perez, E.**, Pastor, M, Gasol, M, Roig, M., Guarga, L., Delgadillo, J.  (2018). Economic Evaluations and Budget Impact Analyses of Innovative Medicines According to the Catalan Health Service Standards: A Qualitative Assessment. _Value in Health_, Volume 21, Supplement 3, S174.\
 <a href="https://doi.org/10.1016/j.jval.2018.09.1037"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/AlonsoPerez2018_EE_CatSalut.pdf"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
 
 ## Work in progress
-(17) Pilz González, L., **Alonso-Perez, E.**, Lehnchen, J., Deptolla, Z., Heumann, E., Tezcan-Güntekin, H., Heinrichs, K., Stock, C. Multiple discrimination and intersecting social inequalities associated with the mental health among university students in Germany - A Multilevel Analysis of Individual Heterogeneity and Discriminatory Accuracy _(In preparation for submission)_
 
 (18) Gellert, P., **Alonso-Perez, E.**, Heisig, J.P., Correll, C, Steinhagen-Thiessen, E., Fuellen, G., Rudolf, H., O‘Sullivan, J.L. Is there a compression of morbidity and does it vary across social strata? A comparison of two waves 15 years apart across older European adults _(In preparation for submission)_
 
