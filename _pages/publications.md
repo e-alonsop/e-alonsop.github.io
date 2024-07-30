@@ -35,7 +35,7 @@ author_profile: true
 
 ## Under Review
 
-(9) O'Sullivan, J. L., **Alonso-Perez, E.**, Färber, F., Fuellen, G., Rudolf, H., Heisig, J. P., Kreyenfeld, M., Gellert, P. (2023). An Intersectional Perspective on Onset of Type 2 Diabetes in Adults aged 50 and older in Europe: A Multilevel Analysis of Individual Heterogeneity and Discriminatory Accuracy. _(Preprint)_.\
+(9) O'Sullivan, J. L., **Alonso-Perez, E.**, Färber, F., Fuellen, G., Rudolf, H., Heisig, J. P., Kreyenfeld, M., Gellert, P. (2023). An Intersectional Perspective on Onset of Type 2 Diabetes in Adults aged 50 and older in Europe: A Multilevel Analysis of Individual Heterogeneity and Discriminatory Accuracy. _(R&R, Preprint)_.\
 <a href="https://www.researchsquare.com/article/rs-3210698/v1"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/OSullivan2023_MAIHDA_preprint.pdf"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
 
 (10) Ramos, V. J., Kreyenfeld, M., **Alonso-Perez, E.**, Gellert, P., Heisig, J. P., O'Sullivan, J. L. Fertility Intentions Under Future Caregiving and Employment Uncertainties: Experimental Evidence from Germany. _(R&R)_.
@@ -56,7 +56,7 @@ This paper examines how divorce relates to mental health, and how this associati
 
 </details>
 
-(12) Mümken, S., **Alonso-Perez, E.**, Haeger, C., O'Sullivan, J. L., Xue, Q. L., Herrmann, W., Lech, S., Gellert, P. Prevention of frailty in relation with social out-of-home activities in older adults: Results from the Survey of Health, Ageing and Retirement in Europe.
+(12) Mümken, S., **Alonso-Perez, E.**, Haeger, C., O'Sullivan, J. L., Xue, Q. L., Herrmann, W., Lech, S., Gellert, P. Prevention of frailty in relation with social out-of-home activities in older adults: Results from the Survey of Health, Ageing and Retirement in Europe. _(R&R)_.
 
 <details>
   <summary>Abstract</summary>
@@ -65,16 +65,10 @@ Out-of-home mobility and social participation have been identified as resources 
 
 </details>
 
-(13) **Alonso-Perez, E.**, O’Sullivan, J. L., Schnitzer, S., Schmitz, A., Brandt, M., Gellert, P. Who cares first? A MAIHDA analysis of intersectional inequalities in the age of caregiving onset using European longitudinal data
+(13) **Alonso-Perez, E.**, O’Sullivan, J. L., Schnitzer, S., Schmitz, A., Brandt, M., Gellert, P. (2024). Who cares first? A MAIHDA analysis of intersectional inequalities in the age of caregiving onset using European longitudinal data. _(Preprint)_ 
+<a href="https://doi.org/10.21203/rs.3.rs-4718876/v1"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/MAIHDA_care_preprint.pdf"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
 
-<details>
-  <summary>Abstract</summary>
-
-Caregiving for older relatives is central for many people's lives in aging societies. The timing of caregiving onset significantly influences caregivers' health, social, and employment trajectories. However, the age at which family caregiving begins and its potential social and intersectional stratification have not been sufficiently explored. Using data from the Survey of Health, Ageing and Retirement in Europe (SHARE), we analysed individuals becoming daily caregivers between waves 1 and 9 (ages 50-95). We applied Multilevel Analysis of Individual Heterogeneity and Discriminatory Accuracy (MAIHDA) to determine intersectional inequalities in the age of caregiving onset, separately for intragenerational (partner, siblings) and intergenerational (parents, in-laws) caregiving. We created 48 intersectional strata with combinations of sex/gender, migration background, education, and occupation. Intragenerational care onset was at 70.18 years on average (N = 10,146), with 11 years of difference between strata. Intersectional strata explained substantial variation in onset age (VPC = 7.14%), and 10% of these differences were due to intersectional interaction effects. Intergenerational care (N = 3,966) began earlier at 59.56 years on average, with a difference of over 4 years between strata. Most between-strata variation was additive. For both intra- and intergenerational care, combinations of women with low-skill occupations and high education were associated with earlier caregiving onset. We found large differences in the age of caregiving onset between intersectional strata in both intra- and intergenerational care. Mapping social heterogeneity and the intersectional nature of caregiving onset within the life-course is critical to further understand the prerequisites, meaning, and consequences for family caregivers.
-
-</details>
-
-(14) Pilz González, L., **Alonso-Perez, E.**, Lehnchen, J., Deptolla, Z., Heumann, E., Tezcan-Güntekin, H., Heinrichs, K., Stock, C. Mental health and the intersection of perceived discrimination and social inequalities among students in Germany – A quantitative intersectional study
+(14) Pilz González, L., **Alonso-Perez, E.**, Lehnchen, J., Deptolla, Z., Heumann, E., Tezcan-Güntekin, H., Heinrichs, K., Stock, C. Mental health and the intersection of perceived discrimination and social inequalities among students in Germany – A quantitative intersectional study.
 
 <details>
   <summary>Abstract</summary>
@@ -90,9 +84,6 @@ Conclusions: The profound associations between perceived discrimination and the 
 
 (15) **Alonso-Perez, E.**, Gellert, P., O'Sullivan, J., Liebig, S., Kreyenfeld, M., McEvoy, O., Ramos, V. et al. (2021). Cognitive Pretest of a Factorial Survey Experiment on Future Narratives and Family Care. _Hertie School Repository_.\
 <a href="https://opus4.kobv.de/opus4-hsog/frontdoor/index/index/docId/4174"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/AlonsoPerez2023_Pretest.pdf"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
-
-(16) Guarga, L., **Alonso-Perez, E.**, Roig-Izquierdo, M., Reyes, A., León, L., Pastor, M. (2021). Implementation of access initiatives for pharmaceutical innovations in CatSalut: Towards an integrated concept of health and care Services Model - Value Driven Transformations. _Catalan Health Department Repository_.\
-<a href="https://scientiasalut.gencat.cat/handle/11351/6728"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/Guarga2021_CatSalut.pdf"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
 
 (17) **Alonso-Perez, E.**, Pastor, M, Gasol, M, Roig, M., Guarga, L., Delgadillo, J.  (2018). Economic Evaluations and Budget Impact Analyses of Innovative Medicines According to the Catalan Health Service Standards: A Qualitative Assessment. _Value in Health_, Volume 21, Supplement 3, S174.\
 <a href="https://doi.org/10.1016/j.jval.2018.09.1037"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/AlonsoPerez2018_EE_CatSalut.pdf"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
