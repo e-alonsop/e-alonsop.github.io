@@ -65,7 +65,7 @@ Out-of-home mobility and social participation have been identified as resources 
 
 </details>
 
-(13) **Alonso-Perez, E.**, O’Sullivan, J. L., Schnitzer, S., Schmitz, A., Brandt, M., Gellert, P. (2024). Who cares first? A MAIHDA analysis of intersectional inequalities in the age of caregiving onset using European longitudinal data. _(Preprint)_ 
+(13) **Alonso-Perez, E.**, O’Sullivan, J. L., Schnitzer, S., Schmitz, A., Brandt, M., Gellert, P. (2024). Who cares first? A MAIHDA analysis of intersectional inequalities in the age of caregiving onset using European longitudinal data. _(Preprint)_.\
 <a href="https://doi.org/10.21203/rs.3.rs-4718876/v1"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/MAIHDA_care_preprint.pdf"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
 
 (14) Pilz González, L., **Alonso-Perez, E.**, Lehnchen, J., Deptolla, Z., Heumann, E., Tezcan-Güntekin, H., Heinrichs, K., Stock, C. Mental health and the intersection of perceived discrimination and social inequalities among students in Germany – A quantitative intersectional study.
