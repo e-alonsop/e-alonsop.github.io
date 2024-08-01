@@ -14,7 +14,6 @@ author_profile: true
 (2) Gellert, P., **Alonso-Perez, E.** (2024). Psychological and Biological Pathways to Aging: The Role(s) of the Behavioral and Social Sciences in Geroscience. _Zeitschrift für Gerontologie und Geriatrie_.\
 <a href="https://doi.org/10.1007/s00391-024-02324-1"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/GellertAlonsoPerez_Biosocial_2024.pdf"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
 
-
 (3) **Alonso-Perez, E.**, Heisig, J. P., Kreyenfeld, M., Gellert, P., O'Sullivan, J. L. (2024). Intersectional Inequalities in the Transition to Grandparenthood and Cognitive Functioning: A Longitudinal Multilevel Analysis of Individual Heterogeneity and Discriminatory Accuracy (MAIHDA). _Journals of Gerontology, Series B: Psychological Sciences and Social Sciences_.\
 <a href="https://doi.org/10.1093/geronb/gbae088"><i class="fas fa-fw fa-link" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/AlonsoPerez_2024_MAIHDA_grandparenthood.pdf"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
 
@@ -38,7 +37,7 @@ author_profile: true
 (9) O'Sullivan, J. L., **Alonso-Perez, E.**, Färber, F., Fuellen, G., Rudolf, H., Heisig, J. P., Kreyenfeld, M., Gellert, P. (2023). An Intersectional Perspective on Onset of Type 2 Diabetes in Adults aged 50 and older in Europe: A Multilevel Analysis of Individual Heterogeneity and Discriminatory Accuracy. _(R&R, Preprint)_.\
 <a href="https://www.researchsquare.com/article/rs-3210698/v1"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/OSullivan2023_MAIHDA_preprint.pdf"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
 
-(10) Ramos, V. J., Kreyenfeld, M., **Alonso-Perez, E.**, Gellert, P., Heisig, J. P., O'Sullivan, J. L. Future Caregiving Responsibilities, Employment Uncertainties, and Expected Childbearing Behavior: Survey Experimental Evidence from Germany.\
+(10) Ramos, V. J., Kreyenfeld, M., **Alonso-Perez, E.**, Gellert, P., Heisig, J. P., O'Sullivan, J. L. Future Caregiving Responsibilities, Employment Uncertainties, and Expected Childbearing Behavior: Survey Experimental Evidence from Germany.
 
 <details>
   <summary>Abstract</summary>
