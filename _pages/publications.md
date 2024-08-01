@@ -38,7 +38,7 @@ author_profile: true
 (9) O'Sullivan, J. L., **Alonso-Perez, E.**, Färber, F., Fuellen, G., Rudolf, H., Heisig, J. P., Kreyenfeld, M., Gellert, P. (2023). An Intersectional Perspective on Onset of Type 2 Diabetes in Adults aged 50 and older in Europe: A Multilevel Analysis of Individual Heterogeneity and Discriminatory Accuracy. _(R&R, Preprint)_.\
 <a href="https://www.researchsquare.com/article/rs-3210698/v1"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/OSullivan2023_MAIHDA_preprint.pdf"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
 
-(10) Ramos, V. J., Kreyenfeld, M., **Alonso-Perez, E.**, Gellert, P., Heisig, J. P., O'Sullivan, J. L. Fertility Intentions Under Future Caregiving and Employment Uncertainties: Experimental Evidence from Germany. _(R&R)_.
+(10) Ramos, V. J., Kreyenfeld, M., **Alonso-Perez, E.**, Gellert, P., Heisig, J. P., O'Sullivan, J. L. Future Caregiving Responsibilities, Employment Uncertainties, and Expected Childbearing Behavior: Survey Experimental Evidence from Germany.\
 
 <details>
   <summary>Abstract</summary>
