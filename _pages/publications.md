@@ -79,9 +79,11 @@ Conclusions: The profound associations between perceived discrimination and the 
 
 </details>
 
+(15) Wagner, L., Molina, S., **Alonso-Perez, E.**, Kreyenfeld, M. What Differences Does it Make? Parental Relationship Quality and Child Wellbeing in Step- and Nuclear Families
+
 ## Non-Peer Reviewed Publications
 
-(15) **Alonso-Perez, E.**, Gellert, P., O'Sullivan, J., Liebig, S., Kreyenfeld, M., McEvoy, O., Ramos, V. et al. (2021). Cognitive Pretest of a Factorial Survey Experiment on Future Narratives and Family Care. _Hertie School Repository_.\
+(16) **Alonso-Perez, E.**, Gellert, P., O'Sullivan, J., Liebig, S., Kreyenfeld, M., McEvoy, O., Ramos, V. et al. (2021). Cognitive Pretest of a Factorial Survey Experiment on Future Narratives and Family Care. _Hertie School Repository_.\
 <a href="https://opus4.kobv.de/opus4-hsog/frontdoor/index/index/docId/4174"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/AlonsoPerez2023_Pretest.pdf"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
 
 (17) **Alonso-Perez, E.**, Pastor, M, Gasol, M, Roig, M., Guarga, L., Delgadillo, J.  (2018). Economic Evaluations and Budget Impact Analyses of Innovative Medicines According to the Catalan Health Service Standards: A Qualitative Assessment. _Value in Health_, Volume 21, Supplement 3, S174.\
