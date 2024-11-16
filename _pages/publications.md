@@ -61,7 +61,7 @@ This paper examines how divorce relates to mental health, and how this associati
 
 </details>
 
-(14) Pilz González, L., **Alonso-Perez, E.**, Lehnchen, J., Deptolla, Z., Heumann, E., Tezcan-Güntekin, H., Heinrichs, K., Stock, C. Mental health and the intersection of perceived discrimination and social inequalities among students in Germany – A quantitative intersectional study.
+Pilz González, L., **Alonso-Perez, E.**, Lehnchen, J., Deptolla, Z., Heumann, E., Tezcan-Güntekin, H., Heinrichs, K., Stock, C. Mental health and the intersection of perceived discrimination and social inequalities among students in Germany – A quantitative intersectional study.
 
 <details>
   <summary>Abstract</summary>
@@ -97,6 +97,6 @@ Sleep plays a pivotal role in overall health and wellbeing, also serving as a ke
 
 </details>
 
-(20) **Alonso-Perez, E.**, Fuellen, G., Gellert, P.,, O’Sullivan, J.L, Rudolf, H. Intersectional inequalities in biological age clocks: a MAIHDA analysis using biomarkers of ageing from the NAKO study in Germany _(Preliminary analyses)_
+**Alonso-Perez, E.**, Fuellen, G., Gellert, P.,, O’Sullivan, J.L, Rudolf, H. Intersectional inequalities in biological age clocks: a MAIHDA analysis using biomarkers of ageing from the NAKO study in Germany _(Preliminary analyses)_
 
-(21) **Alonso-Perez, E.**, Gellert, P. Diverse family types and biomarkers of cardiovascular aging _(Preliminary analyses)_
+**Alonso-Perez, E.**, Gellert, P. Diverse family types and biomarkers of cardiovascular aging _(Preliminary analyses)_
