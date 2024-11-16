@@ -43,6 +43,9 @@ author_profile: true
 **Alonso-Perez, E.**, O’Sullivan, J. L., Schnitzer, S., Schmitz, A., Brandt, M., Gellert, P. (2024). Who cares first? A MAIHDA analysis of intersectional inequalities in the age of caregiving onset using European longitudinal data. _(Preprint)_.\
 <a href="https://doi.org/10.21203/rs.3.rs-4718876/v1"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/MAIHDA_care_preprint.pdf"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
 
+Wagner, L., Molina, S., **Alonso-Perez, E.**, Kreyenfeld, M. (2004). What Differences Does it Make? Parental Relationship Quality and Child Wellbeing in Step- and Nuclear Families. _(Preprint)_.\
+<a href="https://doi.org/10.31235/osf.io/tzdvw"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/Preprint_ChildMediation.pdf"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
+
 Ramos, V. J., Kreyenfeld, M., **Alonso-Perez, E.**, Gellert, P., Heisig, J. P., O'Sullivan, J. L. Future Caregiving Responsibilities, Employment Uncertainties, and Expected Childbearing Behavior: Survey Experimental Evidence from Germany.
 
 <details>
@@ -73,9 +76,6 @@ Conclusions: The profound associations between perceived discrimination and the 
 
 </details>
 
-Wagner, L., Molina, S., **Alonso-Perez, E.**, Kreyenfeld, M. (2004). What Differences Does it Make? Parental Relationship Quality and Child Wellbeing in Step- and Nuclear Families. _(Preprint)_.\
-<a href="https://doi.org/10.31235/osf.io/tzdvw"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/Preprint_ChildMediation.pdf"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
-
 ## Non-Peer Reviewed Publications
 
 **Alonso-Perez, E.**, Gellert, P., O'Sullivan, J., Liebig, S., Kreyenfeld, M., McEvoy, O., Ramos, V. et al. (2021). Cognitive Pretest of a Factorial Survey Experiment on Future Narratives and Family Care. _Hertie School Repository_.\
@@ -90,13 +90,6 @@ Gellert, P., **Alonso-Perez, E.**, Heisig, J.P., Correll, C, Steinhagen-Thiessen
 
 **Alonso-Perez, E.**, Ding, X., Richter, D., Gellert, P., O'Sullivan, J. L. Intersectional sleep disparities: multiple social intersections and perceived neighborhood deprivation are associated with sleep disturbance in Europe. _(Submitted)_
 
-<details>
-  <summary>Abstract</summary>
+**Alonso-Perez, E.**, Fuellen, G., Gellert, P., O’Sullivan, J.L, Rudolf, H. Intersectional inequalities in biological age clocks: a MAIHDA analysis using biomarkers of ageing from the NAKO study in Germany _(Preliminary analyses)_
 
-Sleep plays a pivotal role in overall health and wellbeing, also serving as a key indicator of social status and privilege. The prevalence of sleep problems is unevenly distributed within societies, where individual social determinants of sleep are embedded within larger social contexts (e.g., neighborhood deprivation). Incorporating intersectionality is needed to address structural inequalities in sleep that reflect the lived social realities beyond the individual-level. Our sample consisted on 17,008 individuals aged 50 and older from waves 4 and 5 of the Survey of Health, Aging and Retirement in Europe (SHARE). We created 72 unique intersectional strata by interacting individual axes of social inequality (sex/gender, family caregiving, education, occupation) with perceived neighborhood deprivation. To investigate the variations in sleep disturbances across intersectional strata, we employed Multilevel Analysis of Individual Heterogeneity and Discriminatory Accuracy (MAIHDA). Intersectional strata explained 8.48% of the variance in sleep disturbances, with the most vulnerable groups (i.e., women doing family caregiving, with low education, blue-collar occupations and living in highly-deprived neighborhoods) displaying the most sleep disturbances. Sex/gender and neighborhood deprivation were the main predictors of such differences. Although we found some multiplicative effects, most differences in sleep disturbances were driven by additive effects. Given the importance of sleep for health and the growing social inequalities, intersectionality is as a useful tool to map and decompose sleep disparities. Interventions should go beyond the individual-level and include measures at the neighborhood-level to promote sleep equity. Tailored prevention actions should target socially vulnerable groups, especially women living in deprived neighborhoods.
-
-</details>
-
-**Alonso-Perez, E.**, Fuellen, G., Gellert, P.,, O’Sullivan, J.L, Rudolf, H. Intersectional inequalities in biological age clocks: a MAIHDA analysis using biomarkers of ageing from the NAKO study in Germany _(Preliminary analyses)_
-
-**Alonso-Perez, E.**, Gellert, P. Diverse family types and biomarkers of cardiovascular aging _(Preliminary analyses)_
+**Alonso-Perez, E.**, Gellert, P. Diverse family types and biomarkers of cardiovascular aging. _(Preliminary analyses)_
