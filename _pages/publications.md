@@ -8,10 +8,10 @@ author_profile: true
 
 ## Peer Reviewed publications
 
-(10) O'Sullivan, J. L., **Alonso-Perez, E.**, Färber, F., Fuellen, G., Rudolf, H., Heisig, J. P., Kreyenfeld, M., Gellert, P. (2023). An Intersectional Perspective on Onset of Type 2 Diabetes in Adults aged 50 and older in Europe: A Multilevel Analysis of Individual Heterogeneity and Discriminatory Accuracy. _(R&R, Preprint)_.\
+(10) O'Sullivan, J. L., **Alonso-Perez, E.**, Färber, F., Fuellen, G., Rudolf, H., Heisig, J. P., Kreyenfeld, M., Gellert, P. (2024). Onset of Type 2 Diabetes in Adults aged 50 and older in Europe: An Intersectional Multilevel Analysis of Individual Heterogeneity and Discriminatory Accuracy. _Diabetology & Metabolic Syndrome_.\
 <a href="https://www.researchsquare.com/article/rs-3210698/v1"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/OSullivan2023_MAIHDA_preprint.pdf"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
 
-(9) Mümken, S., **Alonso-Perez, E.**, Haeger, C., O'Sullivan, J. L., Xue, Q. L., Herrmann, W., Lech, S., Gellert, P. Prevention of frailty in relation with social out-of-home activities in older adults: Results from the Survey of Health, Ageing and Retirement in Europe. _(R&R)_.\
+(9) Mümken, S., **Alonso-Perez, E.**, Haeger, C., O'Sullivan, J. L., Xue, Q. L., Herrmann, W., Lech, S., Gellert, P. (2024). Prevention of frailty in relation with social out-of-home activities in older adults: Results from the Survey of Health, Ageing and Retirement in Europe. _European Journal of Ageing_.\
 <a href="https://doi.org/10.1007/s10433-024-00829-7"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/SHAREfrailty.pdf"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
 
 (8) Lech, S., Köppe, M., Berger, M., **Alonso-Perez, E.**, Gellert, P., Buspavanich, P., Herrmann, W. (2024). Depressive symptoms among individuals identifying as asexual: a cross-sectional study. _Scientific Reports_, 14(1), 16120.\
