@@ -14,14 +14,14 @@ I am always eager to collaborate with interesting research or new projects in th
 
 ![](https://e-alonsop.github.io/images/ecpd_horizontal.jpg)
 
-My research position is funded under the [Einstein Center Population Diversity](https://einstein-diversity.com/) (ECPD). The ECPD is an interdisciplinary collaborative research center based in Berlin. Its main aim is to study the consequences of increasing population diversity for social inequality and health disparities by focusing on the growing diversity of families, including changing conceptions and boundaries of the family itself. The ECPD pursues the following overarching research ambitions:
+My research position is funded under the <a href="https://einstein-diversity.com/" target="_blank">Einstein Center Population Diversity</a> (ECPD). The ECPD is an interdisciplinary collaborative research center based in Berlin. Its main aim is to study the consequences of increasing population diversity for social inequality and health disparities by focusing on the growing diversity of families, including changing conceptions and boundaries of the family itself. The ECPD pursues the following overarching research ambitions:
 
 1. To assess the implications of growing population and family diversity for social and health inequalities and to identify promising targets and approaches for intervention
 2. To advance our understanding of social and health inequalities through the integration of biomedical and social science
 
 The ECPD firmly establishes social demography in Berlin and Germany. It promotes a broader conceptual understanding of how health research, including aging, disability, mobility, and mortality as well as biological or epigenetic perspectives can enrich social science and vice versa. By linking the two strands of research, the ECPD overcomes disciplinary fragmentation and moves toward a more comprehensive and holistic understanding of how social and health inequalities are shaped through ongoing (mega)trends and their interaction with the family sphere, thus creating a scientific basis for tackling the paramount societal challenges ahead of us.
 
-**Funding agency**: [Einstein Foundation Berlin](https://www.einsteinfoundation.de/en/foundation/about-us/)
+**Funding agency**: <a href="https://www.einsteinfoundation.de/en/foundation/about-us/" target="_blank">Einstein Foundation Berlin</a>
 
 **Funding period**: 2024-2029
 
@@ -39,6 +39,6 @@ The ECPD firmly establishes social demography in Berlin and Germany. It promotes
 
 The use of biomarkers allows the assessment of biological risk, which is of interest to investigate physiological pathways through which sociodemographic variables can affect healthy ageing. However, most quantitative studies have not taken an intersectional perspective on social determinants of healthy ageing and related non-communicable diseases (NCDs). Instead, they rather focused on the sole impact and interactions of certain demographic or socioeconomic characteristics. Within the present study, we aim to bridge social and biomedical research by applying quantitative intersectionality. This innovative technique will enable us to explore intersectional disparities in risk biomarkers for CVD, T2DM and CKD in German older adults.
 
-We exploit secondary data from the [NAKO National Cohort](https://nako.de/informationen-auf-englisch/) in Germany, with rich biomarker and sociodemographic data of more than 200,000 randomly selected citizens aged 20-69 across all Germany. 
+We exploit secondary data from the <a href="https://nako.de/informationen-auf-englisch/" target="_blank">NAKO National Cohort</a> in Germany, with rich biomarker and sociodemographic data of more than 200,000 randomly selected citizens aged 20-69 across all Germany. 
 
 **Cooperation partners**: Universitätsmedizin Rostock
