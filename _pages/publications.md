@@ -38,7 +38,9 @@ author_profile: true
 (1) Reyes-Travé, A., Guarga-Solé, L., Roig-Izquierdo, M., **Alonso-Perez, E.**, Clopés-Estela, A., Delgadillo-Duarte, J. (2021). Characterization of the Pharmaceutical Risk-Sharing Arrangement Process in Catalonia. _PharmacoEconomics_, 39(9), pp.973-982.\
 <a href="https://link.springer.com/article/10.1007/s40273-021-01046-1" target="_blank"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/ReyesTrave2021.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
 
-## Under Review
+## Submitted & Under Review
+
+**Alonso-Perez, E.**, Ding, X., Richter, D., Gellert, P., O'Sullivan, J. L. Intersectional sleep disparities: multiple social intersections and perceived neighborhood deprivation are associated with sleep disturbance in Europe.
 
 **Alonso-Perez, E.**, O’Sullivan, J. L., Schnitzer, S., Schmitz, A., Brandt, M., Gellert, P. (2024). Who cares first? A MAIHDA analysis of intersectional inequalities in the age of caregiving onset using European longitudinal data. _(Preprint)_.\
 <a href="https://doi.org/10.21203/rs.3.rs-4718876/v1" target="_blank"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/MAIHDA_care_preprint.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
@@ -87,8 +89,6 @@ Conclusions: The profound associations between perceived discrimination and the 
 ## Work in progress
 
 Gellert, P., **Alonso-Perez, E.**, Heisig, J.P., Correll, C, Steinhagen-Thiessen, E., Fuellen, G., Rudolf, H., O‘Sullivan, J.L. Is there a compression of morbidity and does it vary across social strata? A comparison of two waves 15 years apart across older European adults _(In preparation for submission)_
-
-**Alonso-Perez, E.**, Ding, X., Richter, D., Gellert, P., O'Sullivan, J. L. Intersectional sleep disparities: multiple social intersections and perceived neighborhood deprivation are associated with sleep disturbance in Europe. _(Submitted)_
 
 **Alonso-Perez, E.**, Fuellen, G., Gellert, P., O’Sullivan, J.L, Rudolf, H. Intersectional inequalities in biological age clocks: a MAIHDA analysis using biomarkers of ageing from the NAKO study in Germany _(Preliminary analyses)_
 
