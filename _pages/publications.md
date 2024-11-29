@@ -9,7 +9,7 @@ author_profile: true
 ## Peer Reviewed publications
 
 (10) O'Sullivan, J. L., **Alonso-Perez, E.**, Färber, F., Fuellen, G., Rudolf, H., Heisig, J. P., Kreyenfeld, M., Gellert, P. (2024). Onset of Type 2 Diabetes in Adults aged 50 and older in Europe: An Intersectional Multilevel Analysis of Individual Heterogeneity and Discriminatory Accuracy. _Diabetology & Metabolic Syndrome_, 16, 291.\
-<a href="https://doi.org/10.1186/s13098-024-01533-3"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/OSullivan2024_MAIHDA.pdf"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
+<a href="https://doi.org/10.1186/s13098-024-01533-3" target="_blank"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/OSullivan2024_MAIHDA.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
 
 (9) Mümken, S., **Alonso-Perez, E.**, Haeger, C., O'Sullivan, J. L., Xue, Q. L., Herrmann, W., Lech, S., Gellert, P. (2024). Prevention of frailty in relation with social out-of-home activities in older adults: Results from the Survey of Health, Ageing and Retirement in Europe. _European Journal of Ageing_.\
 <a href="https://doi.org/10.1007/s10433-024-00829-7"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/SHAREfrailty.pdf"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
