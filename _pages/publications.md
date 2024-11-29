@@ -12,39 +12,39 @@ author_profile: true
 <a href="https://doi.org/10.1186/s13098-024-01533-3" target="_blank"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/OSullivan2024_MAIHDA.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
 
 (9) Mümken, S., **Alonso-Perez, E.**, Haeger, C., O'Sullivan, J. L., Xue, Q. L., Herrmann, W., Lech, S., Gellert, P. (2024). Prevention of frailty in relation with social out-of-home activities in older adults: Results from the Survey of Health, Ageing and Retirement in Europe. _European Journal of Ageing_.\
-<a href="https://doi.org/10.1007/s10433-024-00829-7"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/SHAREfrailty.pdf"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
+<a href="https://doi.org/10.1007/s10433-024-00829-7" target="_blank"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/SHAREfrailty.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
 
 (8) Lech, S., Köppe, M., Berger, M., **Alonso-Perez, E.**, Gellert, P., Buspavanich, P., Herrmann, W. (2024). Depressive symptoms among individuals identifying as asexual: a cross-sectional study. _Scientific Reports_, 14(1), 16120.\
-<a href="http://dx.doi.org/10.1038/s41598-024-66900-6"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/s41598-024-66900-6 (1).pdf"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
+<a href="http://dx.doi.org/10.1038/s41598-024-66900-6" target="_blank"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/s41598-024-66900-6 (1).pdf" target="_blank"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
 
 (7) Gellert, P., **Alonso-Perez, E.** (2024). Psychological and Biological Pathways to Aging: The Role(s) of the Behavioral and Social Sciences in Geroscience. _Zeitschrift für Gerontologie und Geriatrie_.\
-<a href="https://doi.org/10.1007/s00391-024-02324-1"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/GellertAlonsoPerez_Biosocial_2024.pdf"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
+<a href="https://doi.org/10.1007/s00391-024-02324-1" target="_blank"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/GellertAlonsoPerez_Biosocial_2024.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
 
 (6) **Alonso-Perez, E.**, Heisig, J. P., Kreyenfeld, M., Gellert, P., O'Sullivan, J. L. (2024). Intersectional Inequalities in the Transition to Grandparenthood and Cognitive Functioning: A Longitudinal Multilevel Analysis of Individual Heterogeneity and Discriminatory Accuracy (MAIHDA). _Journals of Gerontology, Series B: Psychological Sciences and Social Sciences_.\
-<a href="https://doi.org/10.1093/geronb/gbae088"><i class="fas fa-fw fa-link" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/AlonsoPerez_2024_MAIHDA_grandparenthood.pdf"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
+<a href="https://doi.org/10.1093/geronb/gbae088" target="_blank"><i class="fas fa-fw fa-link" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/AlonsoPerez_2024_MAIHDA_grandparenthood.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
 
 (5) Färber, F., **Alonso-Perez, E.**, Heidemann, C., Du, Y., Stadler, G., Gellert, P., O'Sullivan, J.L. (2024). Intersectional Analysis of Social Disparities in type 2 Diabetes Risk among Adults in Germany: Results from a Nationwide Population-Based Survey. _BMC Public Health_, 24(1), 1-12.\
-<a href="https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-024-17903-5"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/Faerber2024_MAIHDA_diabetes.pdf"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
+<a href="https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-024-17903-5" target="_blank"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/Faerber2024_MAIHDA_diabetes.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
 
 (4) **Alonso-Perez, E.**, Gellert, P., Kreyenfeld, M., O’Sullivan, J. L. (2022). Family Structure and Family Climate in Relation to Health and Socioeconomic Status for Older Adults: A Longitudinal Moderated Mediation Analysis. _International Journal of Environmental Research and Public Health_, 19(18), 11840.\
-<a href="https://www.mdpi.com/1660-4601/19/18/11840/"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/AlonsoPerez2022_FamClimate.pdf"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
+<a href="https://www.mdpi.com/1660-4601/19/18/11840/" target="_blank"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/AlonsoPerez2022_FamClimate.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
 
 (3) Guarga, L., Gasol, M., Reyes, A., Roig, M., **Alonso-Perez, E.**, Clopés, A., Delgadillo, J.. (2022). Implementing Risk-Sharing Arrangements for Innovative Medicines: The Experience in Catalonia (Spain). _Value in Health_, Volume 25, no. 5: 803-809.\
-<a href="https://www.sciencedirect.com/science/article/pii/S1098301521031727"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/Guarga2022.pdf"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
+<a href="https://www.sciencedirect.com/science/article/pii/S1098301521031727" target="_blank"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/Guarga2022.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
 
 (2) **Alonso-Perez, E.**, Forné, C., Soro, M., Valls, M., Manganelli, A., Valdivielso, J. (2021). Health Care Costs in Patients with and without Secondary Hyperparathyroidism in Spain. _Advances in Therapy_, 38(10), 5333-5344.\
-<a href="https://link.springer.com/article/10.1007/s12325-021-01895-4"><i class="fas fa-fw fa-link" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/AlonsoPerez2021_sHPT.pdf"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
+<a href="https://link.springer.com/article/10.1007/s12325-021-01895-4" target="_blank"><i class="fas fa-fw fa-link" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/AlonsoPerez2021_sHPT.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
 
 (1) Reyes-Travé, A., Guarga-Solé, L., Roig-Izquierdo, M., **Alonso-Perez, E.**, Clopés-Estela, A., Delgadillo-Duarte, J. (2021). Characterization of the Pharmaceutical Risk-Sharing Arrangement Process in Catalonia. _PharmacoEconomics_, 39(9), pp.973-982.\
-<a href="https://link.springer.com/article/10.1007/s40273-021-01046-1"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/ReyesTrave2021.pdf"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
+<a href="https://link.springer.com/article/10.1007/s40273-021-01046-1" target="_blank"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/ReyesTrave2021.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
 
 ## Under Review
 
 **Alonso-Perez, E.**, O’Sullivan, J. L., Schnitzer, S., Schmitz, A., Brandt, M., Gellert, P. (2024). Who cares first? A MAIHDA analysis of intersectional inequalities in the age of caregiving onset using European longitudinal data. _(Preprint)_.\
-<a href="https://doi.org/10.21203/rs.3.rs-4718876/v1"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/MAIHDA_care_preprint.pdf"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
+<a href="https://doi.org/10.21203/rs.3.rs-4718876/v1" target="_blank"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/MAIHDA_care_preprint.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
 
 Wagner, L., Molina, S., **Alonso-Perez, E.**, Kreyenfeld, M. (2004). What Differences Does it Make? Parental Relationship Quality and Child Wellbeing in Step- and Nuclear Families. _(Preprint)_.\
-<a href="https://doi.org/10.31235/osf.io/tzdvw"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/Preprint_ChildMediation.pdf"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
+<a href="https://doi.org/10.31235/osf.io/tzdvw" target="_blank"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/Preprint_ChildMediation.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
 
 Ramos, V. J., Kreyenfeld, M., **Alonso-Perez, E.**, Gellert, P., Heisig, J. P., O'Sullivan, J. L. Future Caregiving Responsibilities, Employment Uncertainties, and Expected Childbearing Behavior: Survey Experimental Evidence from Germany.
 
@@ -79,10 +79,10 @@ Conclusions: The profound associations between perceived discrimination and the 
 ## Non-Peer Reviewed Publications
 
 **Alonso-Perez, E.**, Gellert, P., O'Sullivan, J., Liebig, S., Kreyenfeld, M., McEvoy, O., Ramos, V. et al. (2021). Cognitive Pretest of a Factorial Survey Experiment on Future Narratives and Family Care. _Hertie School Repository_.\
-<a href="https://opus4.kobv.de/opus4-hsog/frontdoor/index/index/docId/4174"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/AlonsoPerez2023_Pretest.pdf"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
+<a href="https://opus4.kobv.de/opus4-hsog/frontdoor/index/index/docId/4174" target="_blank"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/AlonsoPerez2023_Pretest.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
 
 **Alonso-Perez, E.**, Pastor, M, Gasol, M, Roig, M., Guarga, L., Delgadillo, J.  (2018). Economic Evaluations and Budget Impact Analyses of Innovative Medicines According to the Catalan Health Service Standards: A Qualitative Assessment. _Value in Health_, Volume 21, Supplement 3, S174.\
-<a href="https://doi.org/10.1016/j.jval.2018.09.1037"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/AlonsoPerez2018_EE_CatSalut.pdf"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
+<a href="https://doi.org/10.1016/j.jval.2018.09.1037" target="_blank"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/AlonsoPerez2018_EE_CatSalut.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
 
 ## Work in progress
 
