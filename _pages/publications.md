@@ -46,7 +46,7 @@ author_profile: true
 **Alonso-Perez, E.**, O’Sullivan, J. L., Schnitzer, S., Schmitz, A., Brandt, M., Gellert, P. (2024). Who cares first? A MAIHDA analysis of intersectional inequalities in the age of caregiving onset using European longitudinal data. _(Preprint)_.\
 <a href="https://doi.org/10.21203/rs.3.rs-4718876/v1" target="_blank"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/MAIHDA_care_preprint.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
 
-Wagner, L., Molina, S., **Alonso-Perez, E.**, Kreyenfeld, M. (2004). What Differences Does it Make? Parental Relationship Quality and Child Wellbeing in Step- and Nuclear Families. _(Preprint)_.\
+Wagner, L., Molina, S., **Alonso-Perez, E.**, Kreyenfeld, M. (2024). What Differences Does it Make? Parental Relationship Quality and Child Wellbeing in Step- and Nuclear Families. _(Preprint)_.\
 <a href="https://doi.org/10.31235/osf.io/tzdvw" target="_blank"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/Preprint_ChildMediation.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
 
 Ramos, V. J., Kreyenfeld, M., **Alonso-Perez, E.**, Gellert, P., Heisig, J. P., O'Sullivan, J. L. Future Caregiving Responsibilities, Employment Uncertainties, and Expected Childbearing Behavior: Survey Experimental Evidence from Germany.
