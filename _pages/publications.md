@@ -10,7 +10,7 @@ author_profile: true
 ## Peer Reviewed publications
 
 (11) Pilz González, L., **Alonso-Perez, E.**, Lehnchen, J., Deptolla, Z., Heumann, E., Tezcan-Güntekin, H., Heinrichs, K., Stock, C. Mental Health and the Intersection of Perceived Discrimination and Social Inequalities Among Students in Germany – a Quantitative Intersectional Study. _International Journal of Public Health_, 69:1607826.\
-<a href="https://doi.org/10.3389/ijph.2024.1607826" target="_blank"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/PilzAlonso2025_MAIHDA.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
+<a href="https://doi.org/10.3389/ijph.2024.1607826" target="_blank"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/PilzAlonso2025.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
 
 (10) O'Sullivan, J. L., **Alonso-Perez, E.**, Färber, F., Fuellen, G., Rudolf, H., Heisig, J. P., Kreyenfeld, M., Gellert, P. (2024). Onset of Type 2 Diabetes in Adults aged 50 and older in Europe: An Intersectional Multilevel Analysis of Individual Heterogeneity and Discriminatory Accuracy. _Diabetology & Metabolic Syndrome_, 16, 291.\
 <a href="https://doi.org/10.1186/s13098-024-01533-3" target="_blank"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/OSullivan2024_MAIHDA.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
