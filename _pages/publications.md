@@ -9,6 +9,9 @@ author_profile: true
 
 ## Peer Reviewed publications
 
+(11) Pilz González, L., **Alonso-Perez, E.**, Lehnchen, J., Deptolla, Z., Heumann, E., Tezcan-Güntekin, H., Heinrichs, K., Stock, C. Mental Health and the Intersection of Perceived Discrimination and Social Inequalities Among Students in Germany – a Quantitative Intersectional Study. _International Journal of Public Health_, 69:1607826.\
+<a href="https://doi.org/10.3389/ijph.2024.1607826" target="_blank"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/PilzAlonso2025_MAIHDA.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
+
 (10) O'Sullivan, J. L., **Alonso-Perez, E.**, Färber, F., Fuellen, G., Rudolf, H., Heisig, J. P., Kreyenfeld, M., Gellert, P. (2024). Onset of Type 2 Diabetes in Adults aged 50 and older in Europe: An Intersectional Multilevel Analysis of Individual Heterogeneity and Discriminatory Accuracy. _Diabetology & Metabolic Syndrome_, 16, 291.\
 <a href="https://doi.org/10.1186/s13098-024-01533-3" target="_blank"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/OSullivan2024_MAIHDA.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
 
@@ -64,18 +67,6 @@ Molina, S., **Alonso-Perez, E.**, Kreyenfeld, M. Divorce and Mental Health: Anal
   <summary>Abstract</summary>
 
 This paper examines how divorce relates to mental health, and how this association is stratified by gender, age, and individual income. Data is drawn from German register data, which includes marital histories of divorcees and diagnosed health outcomes. The analytical sample includes persons aged 30-59 in 2015 (n=23,426,639). We employ a Multilevel Analysis of Individual Heterogeneity and Discriminatory Accuracy (MAIHDA) in which the outcome variable is the annual incidence of mental disease diagnosis to compare the patterns of the newly divorced (divorced for less than four years) to the patterns of the never divorced. The analysis helps to identify high-risk populations along the age-gender-income spectrum. Compared to the never divorced, we find a very strong age gradient among newly divorced women. While age seems to be a general risk factor, the small group of women with a very high income face a relatively low risk of receiving a mental disease diagnosis. Among men, older and low-income males are at particularly high risk of being diagnosed with a mental disease.
-
-</details>
-
-Pilz González, L., **Alonso-Perez, E.**, Lehnchen, J., Deptolla, Z., Heumann, E., Tezcan-Güntekin, H., Heinrichs, K., Stock, C. Mental health and the intersection of perceived discrimination and social inequalities among students in Germany – A quantitative intersectional study.
-
-<details>
-  <summary>Abstract</summary>
-
-Objectives: Discrimination poses a threat to the mental health of university students, especially those affected by social inequality, yet understanding its intersectional impact remains limited. This study examines the intersection of social inequalities with perceived discrimination to explore differences in mental health among students in Germany. Intersectionality and Student Mental Health
-Methods: Data from the cross-sectional project "Study Conditions and Mental Health of University Students" (n = 14,592) were analysed using Multilevel Analysis of Individual Heterogeneity and Discriminatory Accuracy (MAIHDA). Depressive symptoms, cognitive stress symptoms, and exhaustion were examined across 48 intersectional strata based on gender, first academic generation, family care tasks, and perceived discrimination.
-Results: The MAIHDA analysis revealed substantial between strata variance, with most of it explained by additive rather than intersectional interaction effects. Perceived discrimination, diverse or female gender, first academic generation, and family care tasks (for exhaustion only) were negatively associated with mental health outcomes. 
-Conclusions: The profound associations between perceived discrimination and the mental health among university students call for urgent attention and intervention within university settings. Adopting an intersectional lens is key to identifying and addressing inequalities.
 
 </details>
 
