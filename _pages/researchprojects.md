@@ -13,7 +13,7 @@ My research position is funded by the <a href="https://einstein-diversity.com/" 
 1. To assess the implications of growing population and family diversity for social and health inequalities and to identify promising targets and approaches for intervention
 2. To advance our understanding of social and health inequalities through the integration of biomedical and social science (biosocial approaches)
 
-The ECPD firmly establishes social demography in Berlin and Germany, promoting a broader conceptual understanding of how health research (e.g., aging, disability, mobility, and mortality) as well as biological or epigenetic perspectives can enrich social science and vice versa. By linking the two strands of research, the ECPD overcomes disciplinary fragmentation and moves toward a more comprehensive and holistic understanding of how social and health inequalities are shaped through ongoing (mega)trends and their interaction with the family sphere, thus creating a scientific basis for tackling the paramount societal challenges ahead of us.
+The ECPD firmly establishes social demography in Berlin and Germany, promoting a broader conceptual understanding of how health research (e.g., aging, disability, mobility, and mortality) as well as biological or epigenetic perspectives can enrich social science and vice versa. By linking the two strands of research, the ECPD overcomes disciplinary fragmentation and moves toward a more comprehensive and holistic understanding of how social and health inequalities are shaped through ongoing (mega)trends and their interaction with the family sphere.
 
 **Funding agency**: <a href="https://www.einsteinfoundation.de/en/foundation/about-us/" target="_blank">Einstein Foundation Berlin</a>
 
