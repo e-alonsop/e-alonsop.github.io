@@ -8,7 +8,7 @@ author_profile: true
 
 ![](https://e-alonsop.github.io/images/ecpd_horizontal.jpg)
 
-My research position is funded under the <a href="https://einstein-diversity.com/" target="_blank">Einstein Center Population Diversity</a> (ECPD). The ECPD is an interdisciplinary collaborative research center based in Berlin. Its main aim is to study the consequences of increasing population diversity for social inequality and health disparities by focusing on the growing diversity of families, including changing conceptions and boundaries of the family itself. The ECPD pursues the following overarching research ambitions:
+My research position is funded by the <a href="https://einstein-diversity.com/" target="_blank">Einstein Center Population Diversity</a> (ECPD). The ECPD is an interdisciplinary collaborative research center based in Berlin. Its main aim is to study the consequences of increasing population diversity for social inequality and health disparities by focusing on the growing diversity of families, including changing conceptions and boundaries of the family itself. The ECPD pursues the following overarching research ambitions:
 
 1. To assess the implications of growing population and family diversity for social and health inequalities and to identify promising targets and approaches for intervention
 2. To advance our understanding of social and health inequalities through the integration of biomedical and social science
