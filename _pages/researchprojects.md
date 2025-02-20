@@ -8,12 +8,12 @@ author_profile: true
 
 ![](https://e-alonsop.github.io/images/ecpd_horizontal.jpg)
 
-My research position is funded by the <a href="https://einstein-diversity.com/" target="_blank">Einstein Center Population Diversity</a> (ECPD). The ECPD is an interdisciplinary collaborative research center based in Berlin. Its main aim is to study the consequences of increasing population diversity for social inequality and health disparities by focusing on the growing diversity of families, including changing conceptions and boundaries of the family itself. The ECPD pursues the following overarching research ambitions:
+My research position is funded by the <a href="https://einstein-diversity.com/" target="_blank">Einstein Center Population Diversity</a> (ECPD). The ECPD is an interdisciplinary research center based in Berlin, studying the consequences of population diversity (with a focus on family diversity) on social inequality and health disparities. The ECPD pursues the following overarching aims:
 
 1. To assess the implications of growing population and family diversity for social and health inequalities and to identify promising targets and approaches for intervention
-2. To advance our understanding of social and health inequalities through the integration of biomedical and social science
+2. To advance our understanding of social and health inequalities through the integration of biomedical and social science (biosocial approaches)
 
-The ECPD firmly establishes social demography in Berlin and Germany. It promotes a broader conceptual understanding of how health research, including aging, disability, mobility, and mortality as well as biological or epigenetic perspectives can enrich social science and vice versa. By linking the two strands of research, the ECPD overcomes disciplinary fragmentation and moves toward a more comprehensive and holistic understanding of how social and health inequalities are shaped through ongoing (mega)trends and their interaction with the family sphere, thus creating a scientific basis for tackling the paramount societal challenges ahead of us.
+The ECPD firmly establishes social demography in Berlin and Germany, promoting a broader conceptual understanding of how health research (e.g., aging, disability, mobility, and mortality) as well as biological or epigenetic perspectives can enrich social science and vice versa. By linking the two strands of research, the ECPD overcomes disciplinary fragmentation and moves toward a more comprehensive and holistic understanding of how social and health inequalities are shaped through ongoing (mega)trends and their interaction with the family sphere, thus creating a scientific basis for tackling the paramount societal challenges ahead of us.
 
 **Funding agency**: <a href="https://www.einsteinfoundation.de/en/foundation/about-us/" target="_blank">Einstein Foundation Berlin</a>
 
