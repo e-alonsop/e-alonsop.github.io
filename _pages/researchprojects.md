@@ -4,12 +4,6 @@ title: "Research Projects"
 permalink: /researchprojects/
 author_profile: true
 ---
-
-I am always eager to collaborate with interesting research or new projects in the following fields:
-* Social stratification of health inequalities
-* Quantitative intersectionality
-* Biosocial mechanisms of healthy aging
-
 ## 1. Einstein Center Population Diversity (ECPD)
 
 ![](https://e-alonsop.github.io/images/ecpd_horizontal.jpg)
