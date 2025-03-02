@@ -44,6 +44,9 @@ author_profile: true
 
 ## Submitted & Under Review
 
+**Alonso-Perez, E.**, O’Sullivan, J.L, Fuellen, G., Gellert, P., Rudolf, H. (2025). Phenotypic age acceleration through a lens of intersectional inequalities in the German national cohort (NAKO) _(Preprint)_.\
+<a href="https://doi.org/10.1101/2025.02.26.25322953" target="_blank"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/PhenoagePreprint.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
+
 **Alonso-Perez, E.**, Ding, X., Richter, D., Gellert, P., O'Sullivan, J. L. Intersectional sleep disparities: multiple social intersections and perceived neighborhood deprivation are associated with sleep disturbance in Europe.
 
 **Alonso-Perez, E.**, O’Sullivan, J. L., Schnitzer, S., Schmitz, A., Brandt, M., Gellert, P. (2024). Who cares first? A MAIHDA analysis of intersectional inequalities in the age of caregiving onset using European longitudinal data. _(Preprint)_.\
@@ -81,7 +84,5 @@ This paper examines how divorce relates to mental health, and how this associati
 ## Work in progress
 
 Gellert, P., **Alonso-Perez, E.**, Heisig, J.P., Correll, C, Steinhagen-Thiessen, E., Fuellen, G., Rudolf, H., O‘Sullivan, J.L. Is there a compression of morbidity and does it vary across social strata? A comparison of two waves 15 years apart across older European adults _(In preparation for submission)_
-
-**Alonso-Perez, E.**, Fuellen, G., Gellert, P., O’Sullivan, J.L, Rudolf, H. Intersectional inequalities in biological age clocks: a MAIHDA analysis using biomarkers of ageing from the NAKO study in Germany _(Preliminary analyses)_
 
 **Alonso-Perez, E.**, Gellert, P. Diverse family types and biomarkers of cardiovascular aging. _(Preliminary analyses)_
