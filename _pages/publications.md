@@ -44,6 +44,8 @@ author_profile: true
 
 ## Submitted & Under Review
 
+**Alonso-Perez, E.**, Heisig, J.P., Correll, C, Steinhagen-Thiessen, E., Fuellen, G., Rudolf, H., O‘Sullivan, J.L., Gellert, P. Is there a compression of morbidity and does it vary across social strata? A comparison of two waves 15 years apart across older European adults.
+
 **Alonso-Perez, E.**, O’Sullivan, J.L, Fuellen, G., Gellert, P., Rudolf, H. (2025). Phenotypic age acceleration through a lens of intersectional inequalities in the German national cohort (NAKO) _(Preprint)_.\
 <a href="https://doi.org/10.1101/2025.02.26.25322953" target="_blank"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/PhenoagePreprint.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
 
@@ -84,7 +86,5 @@ This paper examines how divorce relates to mental health, and how this associati
 <a href="https://doi.org/10.1016/j.jval.2018.09.1037" target="_blank"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/AlonsoPerez2018_EE_CatSalut.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
 
 ## Work in progress
-
-Gellert, P., **Alonso-Perez, E.**, Heisig, J.P., Correll, C, Steinhagen-Thiessen, E., Fuellen, G., Rudolf, H., O‘Sullivan, J.L. Is there a compression of morbidity and does it vary across social strata? A comparison of two waves 15 years apart across older European adults _(In preparation for submission)_
 
 **Alonso-Perez, E.**, Gellert, P. Diverse family types and biomarkers of cardiovascular aging. _(Preliminary analyses)_
