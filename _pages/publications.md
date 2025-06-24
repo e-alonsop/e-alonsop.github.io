@@ -9,6 +9,8 @@ author_profile: true
 
 ## Peer Reviewed publications
 
+(12) Ramos, V. J., Kreyenfeld, M., **Alonso-Perez, E.**, Gellert, P., Heisig, J. P., O’Sullivan, J. L. (2025). Fertility Intentions Under Future Caregiving and Employment Uncertainties: Experimental Evidence from Germany. _Population Research and Policy Review._ (accepted)
+
 (11) Pilz González, L., **Alonso-Perez, E.**, Lehnchen, J., Deptolla, Z., Heumann, E., Tezcan-Güntekin, H., Heinrichs, K., Stock, C. (2025). Mental Health and the Intersection of Perceived Discrimination and Social Inequalities Among Students in Germany – a Quantitative Intersectional Study. _International Journal of Public Health_, 69:1607826.\
 <a href="https://doi.org/10.3389/ijph.2024.1607826" target="_blank"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/PilzAlonso2025.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
 
@@ -77,14 +79,10 @@ This paper examines how divorce relates to mental health, and how this associati
 
 </details>
 
-## Non-Peer Reviewed Publications
-
-**Alonso-Perez, E.**, Gellert, P., O'Sullivan, J., Liebig, S., Kreyenfeld, M., McEvoy, O., Ramos, V. et al. (2021). Cognitive Pretest of a Factorial Survey Experiment on Future Narratives and Family Care. _Hertie School Repository_.\
-<a href="https://opus4.kobv.de/opus4-hsog/frontdoor/index/index/docId/4174" target="_blank"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/AlonsoPerez2023_Pretest.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
-
-**Alonso-Perez, E.**, Pastor, M, Gasol, M, Roig, M., Guarga, L., Delgadillo, J.  (2018). Economic Evaluations and Budget Impact Analyses of Innovative Medicines According to the Catalan Health Service Standards: A Qualitative Assessment. _Value in Health_, Volume 21, Supplement 3, S174.\
-<a href="https://doi.org/10.1016/j.jval.2018.09.1037" target="_blank"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/AlonsoPerez2018_EE_CatSalut.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
-
 ## Work in progress
 
 **Alonso-Perez, E.**, Gellert, P. Diverse family types and biomarkers of cardiovascular aging. _(Preliminary analyses)_
+
+**Alonso-Perez, E.**, Fasang, A., Gellert, P. Trajectories of family caregiving in Europe: a sequence analysis application. _(Preliminary analyses)_
+
+**Alonso-Perez, E.**, Bertogg, A., Gellert, P. The effect of becoming a family caregiver on cognitive functioning: a matched longitudinal difference-in-differences analysis in Europe. _(First draft available upon request)_
