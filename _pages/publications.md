@@ -9,6 +9,9 @@ author_profile: true
 
 ## Peer Reviewed publications
 
+(13) **Alonso-Perez, E.**, Ding, X., Richter, D., Gellert, P., O'Sullivan, J. L. (2025). Intersectional sleep disparities: association between multiple social intersections, perceived neighborhood deprivation, and sleep disturbance in Europe. _European Journal of Public Health_, ckaf130.\
+<a href="https://doi.org/10.1093/eurpub/ckaf130" target="_blank"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/03_MAIHDAsleepFinal.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
+
 (12) Ramos, V. J., Kreyenfeld, M., **Alonso-Perez, E.**, Gellert, P., Heisig, J. P., O’Sullivan, J. L. (2025). Fertility Intentions Under Future Caregiving and Employment Uncertainties: Experimental Evidence from Germany. _Population Research and Policy Review._ (accepted)
 
 (11) Pilz González, L., **Alonso-Perez, E.**, Lehnchen, J., Deptolla, Z., Heumann, E., Tezcan-Güntekin, H., Heinrichs, K., Stock, C. (2025). Mental Health and the Intersection of Perceived Discrimination and Social Inequalities Among Students in Germany – a Quantitative Intersectional Study. _International Journal of Public Health_, 69:1607826.\
@@ -50,8 +53,6 @@ author_profile: true
 
 **Alonso-Perez, E.**, O’Sullivan, J.L, Fuellen, G., Gellert, P., Rudolf, H. (2025). Phenotypic age acceleration through a lens of intersectional inequalities in the German national cohort (NAKO) _(Preprint)_.\
 <a href="https://doi.org/10.1101/2025.02.26.25322953" target="_blank"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/PhenoagePreprint.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
-
-**Alonso-Perez, E.**, Ding, X., Richter, D., Gellert, P., O'Sullivan, J. L. Intersectional sleep disparities: multiple social intersections and perceived neighborhood deprivation are associated with sleep disturbance in Europe.
 
 **Alonso-Perez, E.**, O’Sullivan, J. L., Schnitzer, S., Schmitz, A., Brandt, M., Gellert, P. (2024). Who cares first? A MAIHDA analysis of intersectional inequalities in the age of caregiving onset using European longitudinal data. _(Preprint)_.\
 <a href="https://doi.org/10.21203/rs.3.rs-4718876/v1" target="_blank"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/MAIHDA_care_preprint.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
