@@ -9,8 +9,8 @@ author_profile: true
 
 ## Peer Reviewed publications
 
-(14) Molina, S., **Alonso-Perez, E.**, Kreyenfeld, M. Divorce and Mental Health: Is Late Divorce Particularly Harmful for Women with Low Earnings?. Soc Indic Res (2025). https://doi.org/10.1007/s11205-025-03721-8.\
-<a href="https://doi.org/10.1007/s11205-025-03721-8" target="_blank"><i class="fas fa-fw fa-link" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/MAIHDAdivorce.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
+(14) Molina, S., **Alonso-Perez, E.**, Kreyenfeld, M. (2025). Divorce and Mental Health: Is Late Divorce Particularly Harmful for Women with Low Earnings?. _Social Indiccators Research_.\
+<a href="https://doi.org/10.1007/s11205-025-03721-8" target="_blank"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/MAIHDAdivorce.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
 
 (13) **Alonso-Perez, E.**, Ding, X., Richter, D., Gellert, P., O'Sullivan, J. L. (2025). Intersectional sleep disparities: association between multiple social intersections, perceived neighborhood deprivation, and sleep disturbance in Europe. _European Journal of Public Health_, 35(5), 821-827.\
 <a href="https://doi.org/10.1093/eurpub/ckaf130" target="_blank"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/03_MAIHDAsleepFinal.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
