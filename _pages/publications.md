@@ -66,15 +66,6 @@ Pilz González, L., Wenig, V., Lehnchen, J., **Alonso-Perez, E.**, Burian, J., D
 Wagner, L., Molina, S., **Alonso-Perez, E.**, Kreyenfeld, M. (2024). What Differences Does it Make? Parental Relationship Quality and Child Wellbeing in Step- and Nuclear Families. _(Preprint)_.\
 <a href="https://doi.org/10.31235/osf.io/tzdvw" target="_blank"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/Preprint_ChildMediation.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
 
-Ramos, V. J., Kreyenfeld, M., **Alonso-Perez, E.**, Gellert, P., Heisig, J. P., O'Sullivan, J. L. Future Caregiving Responsibilities, Employment Uncertainties, and Expected Childbearing Behavior: Survey Experimental Evidence from Germany.
-
-<details>
-  <summary>Abstract</summary>
-  
-This paper analyzes the effects of future-oriented caregiving and employment uncertainties on fertility intentions in Germany. The impact of uncertainty on fertility intentions has been widely explored in the literature, with a strong focus on past and current experiences of adverse economic conditions. There is limited research on the effects of uncertainty in other domains (e.g. caregiving responsibilities) and possible interactive effects of multiple types of future-oriented uncertainty. Using a vignette experiment from the nationally representative German Socio- Economic Panel Innovation Sample (SOEP-IS) (n=1,750), respondents were randomly exposed to a hypothetical couple’s future caregiving and employment uncertainties, each with four possible levels, and subsequently evaluated their fertility intentions in the short-run. Having no female caregiving responsibilities and no employment uncertainty for both partners in the foreseeable future increases fertility intentions by 2.8 and 1.9 units, respectively, on a 0-10 scale, relative to when future uncertainties are high. While there are gendered differences in the effect of caregiving uncertainty, the effect of employment uncertainty is not moderated by any of the respondents’ own employment characteristics. Respondent-assessed fertility intentions are highest when there are no future caregiving responsibilities and both partners are in secure employment. This paper highlights individual perceptions of the enabling conditions for initiating parenthood and how caregiving responsibilities and employment instability translate to concerns about family formation in aging societies.
-
-</details>
-
 ## Work in progress
 
 **Alonso-Perez, E.**, Gellert, P. Diverse family types and biomarkers of cardiovascular aging. _(Preliminary analyses)_
