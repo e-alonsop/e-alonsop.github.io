@@ -9,7 +9,10 @@ author_profile: true
 
 ## Peer Reviewed publications
 
-(13) **Alonso-Perez, E.**, Ding, X., Richter, D., Gellert, P., O'Sullivan, J. L. (2025). Intersectional sleep disparities: association between multiple social intersections, perceived neighborhood deprivation, and sleep disturbance in Europe. _European Journal of Public Health_, ckaf130.\
+(14) Molina, S., **Alonso-Perez, E.**, Kreyenfeld, M. Divorce and Mental Health: Is Late Divorce Particularly Harmful for Women with Low Earnings?. Soc Indic Res (2025). https://doi.org/10.1007/s11205-025-03721-8.\
+<a href="https://doi.org/10.1007/s11205-025-03721-8" target="_blank"><i class="fas fa-fw fa-link" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/MAIHDAdivorce.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
+
+(13) **Alonso-Perez, E.**, Ding, X., Richter, D., Gellert, P., O'Sullivan, J. L. (2025). Intersectional sleep disparities: association between multiple social intersections, perceived neighborhood deprivation, and sleep disturbance in Europe. _European Journal of Public Health_, 35(5), 821-827.\
 <a href="https://doi.org/10.1093/eurpub/ckaf130" target="_blank"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/03_MAIHDAsleepFinal.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
 
 (12) Ramos, V. J., Kreyenfeld, M., **Alonso-Perez, E.**, Gellert, P., Heisig, J. P., O’Sullivan, J. L. (2025). Future Caregiving Responsibilities, Employment Uncertainties, and Expected Childbearing Behavior: Survey Experimental Evidence from Germany. _Population Research and Policy Review._, 44, 48.\
@@ -69,15 +72,6 @@ Ramos, V. J., Kreyenfeld, M., **Alonso-Perez, E.**, Gellert, P., Heisig, J. P., 
   <summary>Abstract</summary>
   
 This paper analyzes the effects of future-oriented caregiving and employment uncertainties on fertility intentions in Germany. The impact of uncertainty on fertility intentions has been widely explored in the literature, with a strong focus on past and current experiences of adverse economic conditions. There is limited research on the effects of uncertainty in other domains (e.g. caregiving responsibilities) and possible interactive effects of multiple types of future-oriented uncertainty. Using a vignette experiment from the nationally representative German Socio- Economic Panel Innovation Sample (SOEP-IS) (n=1,750), respondents were randomly exposed to a hypothetical couple’s future caregiving and employment uncertainties, each with four possible levels, and subsequently evaluated their fertility intentions in the short-run. Having no female caregiving responsibilities and no employment uncertainty for both partners in the foreseeable future increases fertility intentions by 2.8 and 1.9 units, respectively, on a 0-10 scale, relative to when future uncertainties are high. While there are gendered differences in the effect of caregiving uncertainty, the effect of employment uncertainty is not moderated by any of the respondents’ own employment characteristics. Respondent-assessed fertility intentions are highest when there are no future caregiving responsibilities and both partners are in secure employment. This paper highlights individual perceptions of the enabling conditions for initiating parenthood and how caregiving responsibilities and employment instability translate to concerns about family formation in aging societies.
-
-</details>
-
-Molina, S., **Alonso-Perez, E.**, Kreyenfeld, M. Divorce and Mental Health: Analysis at the Intersection of Age, Gender, and Income.
-
-<details>
-  <summary>Abstract</summary>
-
-This paper examines how divorce relates to mental health, and how this association is stratified by gender, age, and individual income. Data is drawn from German register data, which includes marital histories of divorcees and diagnosed health outcomes. The analytical sample includes persons aged 30-59 in 2015 (n=23,426,639). We employ a Multilevel Analysis of Individual Heterogeneity and Discriminatory Accuracy (MAIHDA) in which the outcome variable is the annual incidence of mental disease diagnosis to compare the patterns of the newly divorced (divorced for less than four years) to the patterns of the never divorced. The analysis helps to identify high-risk populations along the age-gender-income spectrum. Compared to the never divorced, we find a very strong age gradient among newly divorced women. While age seems to be a general risk factor, the small group of women with a very high income face a relatively low risk of receiving a mental disease diagnosis. Among men, older and low-income males are at particularly high risk of being diagnosed with a mental disease.
 
 </details>
 
