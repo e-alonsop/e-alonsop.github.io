@@ -9,6 +9,9 @@ author_profile: true
 
 ## Peer Reviewed publications
 
+(15) Wagner, L., Molina, S., Alonso-Perez, E. et al. (2025). What difference does it make? Parental relationship quality and child wellbeing in step- and nuclear families. _Genus_, 81, 34./
+<a href="https://doi.org/10.1186/s41118-025-00269-w" target="_blank"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/Wagner2025Genus.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
+
 (14) Molina, S., **Alonso-Perez, E.**, Kreyenfeld, M. (2025). Divorce and Mental Health: Is Late Divorce Particularly Harmful for Women with Low Earnings?. _Social Indicators Research_.\
 <a href="https://doi.org/10.1007/s11205-025-03721-8" target="_blank"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/MAIHDAdivorce.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
 
@@ -62,9 +65,6 @@ author_profile: true
 <a href="https://doi.org/10.21203/rs.3.rs-4718876/v1" target="_blank"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/MAIHDA_care_preprint.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
 
 Pilz González, L., Wenig, V., Lehnchen, J., **Alonso-Perez, E.**, Burian, J., Deptolla, Z., Heinrichs, K., Stock, C. Discrimination, loneliness, and academic achievement among university students in Germany: Results from the cross-sectional StudiBiFra study.
-
-Wagner, L., Molina, S., **Alonso-Perez, E.**, Kreyenfeld, M. (2024). What Differences Does it Make? Parental Relationship Quality and Child Wellbeing in Step- and Nuclear Families. _(Preprint)_.\
-<a href="https://doi.org/10.31235/osf.io/tzdvw" target="_blank"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/Preprint_ChildMediation.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
 
 ## Work in progress
 
