@@ -9,6 +9,8 @@ author_profile: true
 
 ## Peer Reviewed publications
 
+(16) **Alonso-Perez, E.**, Heisig, J.P., Correll, C, Steinhagen-Thiessen, E., Fuellen, G., Rudolf, H., O‘Sullivan, J.L., Gellert, P. (2025) Is there a compression of morbidity and does it vary across social strata? A comparison of two waves 15 years apart across older European adults. _Archives of Gerontology and Geriatrics._
+
 (15) Wagner, L., Molina, S., **Alonso-Perez, E.**, Kreyenfeld, M. (2025). What difference does it make? Parental relationship quality and child wellbeing in step- and nuclear families. _Genus_, 81, 34.\
 <a href="https://doi.org/10.1186/s41118-025-00269-w" target="_blank"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/Wagner2025Genus.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
 
@@ -55,8 +57,6 @@ author_profile: true
 <a href="https://link.springer.com/article/10.1007/s40273-021-01046-1" target="_blank"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/ReyesTrave2021.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
 
 ## Submitted & Under Review
-
-**Alonso-Perez, E.**, Heisig, J.P., Correll, C, Steinhagen-Thiessen, E., Fuellen, G., Rudolf, H., O‘Sullivan, J.L., Gellert, P. Is there a compression of morbidity and does it vary across social strata? A comparison of two waves 15 years apart across older European adults.
 
 **Alonso-Perez, E.**, O’Sullivan, J.L, Fuellen, G., Gellert, P., Rudolf, H. (2025). Phenotypic age acceleration through a lens of intersectional inequalities in the German national cohort (NAKO) _(Preprint)_.\
 <a href="https://doi.org/10.1101/2025.02.26.25322953" target="_blank"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/PhenoagePreprint.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
