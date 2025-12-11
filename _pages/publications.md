@@ -68,8 +68,10 @@ Pilz González, L., Wenig, V., Lehnchen, J., **Alonso-Perez, E.**, Burian, J., D
 
 ## Work in progress
 
-**Alonso-Perez, E.**, Gellert, P. Diverse family types and biomarkers of cardiovascular aging. _(Preliminary analyses)_
+**Alonso-Perez, E.**, Schmauk, S., Kreyenfeld, M., Gellert, P. Diverse family types and biomarkers of cardiovascular aging. _(Preliminary analyses)_
+
+**Alonso-Perez, E.**, Bertogg, A., Gellert, P. The effect of becoming a family caregiver on cognitive functioning: a matched longitudinal difference-in-differences analysis in Europe. _(First draft available upon request)_
 
 **Alonso-Perez, E.**, Fasang, A., Gellert, P. Trajectories of family caregiving in Europe: a sequence analysis application. _(Preliminary analyses)_
 
-**Alonso-Perez, E.**, Bertogg, A., Gellert, P. The effect of becoming a family caregiver on cognitive functioning: a matched longitudinal difference-in-differences analysis in Europe. _(First draft available upon request)_
+Güneyli, A., **Alonso-Perez, E.**, Fasang, E. Sandwiched caregivers: How do parents of young children divide care when additional informal care needs arise? Evidence from Germany. _(Preliminary analyses)_
