@@ -9,7 +9,8 @@ author_profile: true
 
 ## Peer Reviewed publications
 
-(16) **Alonso-Perez, E.**, Heisig, J.P., Correll, C, Steinhagen-Thiessen, E., Fuellen, G., Rudolf, H., O‘Sullivan, J.L., Gellert, P. (2025) Is there a compression of morbidity and does it vary across social strata? A comparison of two waves 15 years apart across older European adults. _Archives of Gerontology and Geriatrics._
+(16) **Alonso-Perez, E.**, Heisig, J.P., Correll, C, Steinhagen-Thiessen, E., Fuellen, G., Rudolf, H., O‘Sullivan, J.L., Gellert, P. (2025) Is there a compression of morbidity and does it vary across social strata? A comparison of two waves 15 years apart across older European adults. _Archives of Gerontology and Geriatrics._, 106118
+<a href="[https://doi.org/10.1186/s41118-025-00269-w](https://doi.org/10.1016/j.archger.2025.106118)" target="_blank"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/CoMo2025.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
 
 (15) Wagner, L., Molina, S., **Alonso-Perez, E.**, Kreyenfeld, M. (2025). What difference does it make? Parental relationship quality and child wellbeing in step- and nuclear families. _Genus_, 81, 34.\
 <a href="https://doi.org/10.1186/s41118-025-00269-w" target="_blank"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/Wagner2025Genus.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
