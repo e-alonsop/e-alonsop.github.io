@@ -1,0 +1,23 @@
+/* Background */
+body {
+  background: #0b1220;
+  color: #e5e7eb;
+}
+
+/* Links */
+a {
+  color: #2563eb;
+}
+a:hover {
+  color: #1d4ed8;
+}
+
+/* Top bar */
+header, nav, .navbar, .masthead {
+  background: #020617 !important;
+}
+
+/* Titles */
+h1, h2, h3 {
+  color: #0f172a;
+}
