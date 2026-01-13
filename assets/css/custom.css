@@ -1,23 +1,57 @@
-/* Background */
+/* ================================
+   Custom color theme
+   ================================ */
+
+/* Page background + main text */
 body {
-  background: #0b1220;
-  color: #e5e7eb;
+  background: #f4a261;
+  color: #1f2937;   /* dark readable text */
 }
 
 /* Links */
 a {
-  color: #2563eb;
+  color: #264653;
 }
 a:hover {
-  color: #1d4ed8;
+  color: #1d3557;
 }
 
-/* Top bar */
-header, nav, .navbar, .masthead {
-  background: #020617 !important;
+/* Top header bar */
+header,
+nav,
+.navbar,
+.masthead {
+  background: #e76f51 !important;
 }
 
-/* Titles */
+/* Bottom footer bar */
+footer,
+.page__footer {
+  background: #e76f51 !important;
+  color: #ffffff;
+}
+
+/* Footer links */
+footer a,
+.page__footer a {
+  color: #ffffff;
+}
+footer a:hover,
+.page__footer a:hover {
+  color: #fef3c7;
+}
+
+/* Navigation links */
+.masthead a,
+nav a {
+  color: #ffffff !important;
+}
+.masthead a:hover,
+nav a:hover {
+  color: #fef3c7 !important;
+}
+
+/* Page titles */
 h1, h2, h3 {
-  color: #0f172a;
+  color: #1f2937;
 }
