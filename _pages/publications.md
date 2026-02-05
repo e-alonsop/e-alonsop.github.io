@@ -65,13 +65,13 @@ author_profile: true
 **Alonso-Perez, E.**, O’Sullivan, J.L, Fuellen, G., Gellert, P., Rudolf, H. (2025). Phenotypic age acceleration through a lens of intersectional inequalities in the German national cohort (NAKO) _(Preprint)_.\
 <a href="https://doi.org/10.1101/2025.02.26.25322953" target="_blank"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/PhenoagePreprint.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
 
+**Alonso-Perez, E.**, Bertogg, A., Gellert, P. Becoming an intense family caregiver and cognitive functioning: a matched difference-in-differences analysis among older Europeans.
+
 Pilz González, L., Wenig, V., Lehnchen, J., **Alonso-Perez, E.**, Burian, J., Deptolla, Z., Heinrichs, K., Stock, C. Discrimination, loneliness, and academic achievement among university students in Germany: Results from the cross-sectional StudiBiFra study.
 
 ## Work in progress
 
 **Alonso-Perez, E.**, Schmauk, S., Kreyenfeld, M., Gellert, P. Diverse family types and biomarkers of cardiovascular aging. _(Preliminary analyses)_
-
-**Alonso-Perez, E.**, Bertogg, A., Gellert, P. The effect of becoming a family caregiver on cognitive functioning: a matched longitudinal difference-in-differences analysis in Europe. _(First draft available upon request)_
 
 **Alonso-Perez, E.**, Bister, L., Peroz, F., Heisig, J., Correll, C. Family as a social determinant of multimorbidity: an umbrella review of systematic reviews. _(Preliminary analyses)_
 
