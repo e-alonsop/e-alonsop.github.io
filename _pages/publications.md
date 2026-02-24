@@ -9,8 +9,8 @@ author_profile: true
 
 ## Peer Reviewed publications
 
-(17) **Alonso-Perez, E.**, O’Sullivan, J. L., Schnitzer, S., Schmitz, A., Brandt, M., Gellert, P. (2026). When to care? A MAIHDA analysis of intersectional inequalities in the age of caregiving onset using European longitudinal data. _Ageing & Society_.\
-<a href="https://doi.org/10.21203/rs.3.rs-4718876/v1" target="_blank"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/MAIHDA_care_preprint.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
+(17) **Alonso-Perez, E.**, O’Sullivan, J. L., Schnitzer, S., Schmitz, A., Brandt, M., Gellert, P. (2026). When to care? A MAIHDA analysis of intersectional inequalities in the age of caregiving onset using European longitudinal data. _Ageing & Society_, 46, e34.\
+<a href="https://doi.org/10.1017/S0144686X26100592" target="_blank"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/MAIHDAcare.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
 
 (16) **Alonso-Perez, E.**, Heisig, J.P., Correll, C, Steinhagen-Thiessen, E., Fuellen, G., Rudolf, H., O‘Sullivan, J.L., Gellert, P. (2025) Is there a compression of morbidity and does it vary across social strata? A comparison of two waves 15 years apart across older European adults. _Archives of Gerontology and Geriatrics._, 106118.\
 <a href="https://doi.org/10.1016/j.archger.2025.106118" target="_blank"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/CoMo2025.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
