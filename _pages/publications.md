@@ -9,6 +9,9 @@ author_profile: true
 
 ## Peer Reviewed publications
 
+(18) **Alonso-Perez, E.**, O’Sullivan, J.L, Fuellen, G., Gellert, P., Rudolf, H. (2026). Phenotypic age acceleration through a lens of intersectional inequalities in the German national cohort (NAKO). _Annals of Epidemiology_.\
+<a href="https://doi.org/10.1101/2025.02.26.25322953" target="_blank"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/PhenoagePreprint.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
+
 (17) **Alonso-Perez, E.**, O’Sullivan, J. L., Schnitzer, S., Schmitz, A., Brandt, M., Gellert, P. (2026). When to care? A MAIHDA analysis of intersectional inequalities in the age of caregiving onset using European longitudinal data. _Ageing & Society_, 46, e34.\
 <a href="https://doi.org/10.1017/S0144686X26100592" target="_blank"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/MAIHDAcare.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
 
@@ -61,9 +64,6 @@ author_profile: true
 <a href="https://link.springer.com/article/10.1007/s40273-021-01046-1" target="_blank"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/ReyesTrave2021.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
 
 ## Submitted & Under Review
-
-**Alonso-Perez, E.**, O’Sullivan, J.L, Fuellen, G., Gellert, P., Rudolf, H. (2025). Phenotypic age acceleration through a lens of intersectional inequalities in the German national cohort (NAKO) _(Preprint)_.\
-<a href="https://doi.org/10.1101/2025.02.26.25322953" target="_blank"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/PhenoagePreprint.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
 
 **Alonso-Perez, E.**, Bertogg, A., Gellert, P. Becoming an intense family caregiver and cognitive functioning: a matched difference-in-differences analysis among older Europeans.
 
