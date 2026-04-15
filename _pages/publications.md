@@ -9,7 +9,7 @@ author_profile: true
 
 ## Peer Reviewed publications
 
-(18) **Alonso-Perez, E.**, O’Sullivan, J.L, Fuellen, G., Gellert, P., Rudolf, H. (2026). Phenotypic age acceleration through a lens of intersectional inequalities in the German national cohort (NAKO). _Annals of Epidemiology_.\
+(18) **Alonso-Perez, E.**, O’Sullivan, J.L, Fuellen, G., Gellert, P., Rudolf, H. (2026). Phenotypic age acceleration through a lens of intersectional inequalities in the German national cohort (NAKO). _Annals of Epidemiology_, 117, 110075.\
 <a href="https://doi.org/10.1016/j.annepidem.2026.110075" target="_blank"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/MAIHDAphenoage.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
 
 (17) **Alonso-Perez, E.**, O’Sullivan, J. L., Schnitzer, S., Schmitz, A., Brandt, M., Gellert, P. (2026). When to care? A MAIHDA analysis of intersectional inequalities in the age of caregiving onset using European longitudinal data. _Ageing & Society_, 46, e34.\
