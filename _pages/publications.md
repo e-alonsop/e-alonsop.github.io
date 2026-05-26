@@ -71,8 +71,12 @@ Pilz González, L., Wenig, V., Lehnchen, J., **Alonso-Perez, E.**, Burian, J., D
 
 ## Work in progress
 
-**Alonso-Perez, E.**, Schmauk, S., Kreyenfeld, M., Gellert, P. Diverse family types and biomarkers of cardiovascular aging. _(Preliminary analyses)_
+**Alonso-Perez, E.**, Schmauk, S., Gellert, P. Family at the heart: Differences in biomarkers of cardiovascular risk among diverse family types in Germany (NAKO) and the UK (Biobank). _(Preliminary analyses)_
 
 **Alonso-Perez, E.**, Bister, L., Peroz, F., Heisig, J., Correll, C. Family as a social determinant of multimorbidity: an umbrella review of systematic reviews. _(Preliminary analyses)_
 
+Bister, L., ***Alonso-Perez, E.***, Peroz, F., Correll, C., Heisig, J. Intergenerational Family Structure and Older Adults’ Multimorbidity in Europe. _(First draft)_
+
 Güneyli, A., **Alonso-Perez, E.**, Fasang, E. Sandwiched caregivers: How do parents of young children divide care when additional informal care needs arise? Evidence from Germany. _(Preliminary analyses)_
+
+Ding, X., **Alonso-Perez, E.**, Mills, M. Ethnic disparities in daytime sleepiness among night shift workers. _(First draft)_
