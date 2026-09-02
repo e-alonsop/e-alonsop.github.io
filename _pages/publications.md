@@ -8,6 +8,8 @@ author_profile: true
 ---
 
 ## Peer Reviewed publications
+(19) Adam, T.J., Thompson, T., Peroz, F.H., Heisig, J.P., Gellert, P., **Alonso-Perez, E.**, et al. Well-being differences and changes in people with somatic and psychiatric disorders or multimorbidities: modelling COVID-19 as a global natural experiment of stress vulnerability. BMJ Mental Health. 2026;29:e302777.\
+<a href="https://doi.org/10.1136/bmjment-2026-302777" target="_blank"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/Adam2026.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
 
 (18) **Alonso-Perez, E.**, O’Sullivan, J.L, Fuellen, G., Gellert, P., Rudolf, H. (2026). Phenotypic age acceleration through a lens of intersectional inequalities in the German national cohort (NAKO). _Annals of Epidemiology_, 117, 110075.\
 <a href="https://doi.org/10.1016/j.annepidem.2026.110075" target="_blank"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/MAIHDAphenoage.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
