@@ -12,7 +12,7 @@ author_profile: true
 <a href="https://doi.org/10.1136/bmjment-2026-302777" target="_blank"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/Adam2026.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
 
 (19) Pilz González, L., Wenig, V., Lehnchen, J., **Alonso-Perez, E.**, Burian, J., Deptolla, Z., Heinrichs, K., Stock, C. (2026). Discrimination, loneliness, and academic achievement among university students in Germany: Results from the cross-sectional StudiBiFra study. _Journal of Public Health_, 1-13.\
-<a href="https://doi.org/10.1007/s10389-026-02894-x" target="_blank"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/StudiBiFra2026.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
+<a href="https://doi.org/10.1007/s10389-026-02894-x" target="_blank"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/StudiBiFra26.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
 
 (18) **Alonso-Perez, E.**, O’Sullivan, J.L, Fuellen, G., Gellert, P., Rudolf, H. (2026). Phenotypic age acceleration through a lens of intersectional inequalities in the German national cohort (NAKO). _Annals of Epidemiology_, 117, 110075.\
 <a href="https://doi.org/10.1016/j.annepidem.2026.110075" target="_blank"><i class="fas fa-fw fa-unlock-alt" aria-hidden="true"></i>Link</a> <a href="https://e-alonsop.github.io/publications/MAIHDAphenoage.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Access PDF</a>
